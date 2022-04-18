@@ -1,5 +1,2 @@
 @reboot /home/culum/ip_check.sh restart
 */15 * * * * /home/culum/ip_check.sh ip_check
-SHELL=/bin/bash
-* * * * * /usr/local/bin/fluxbench-cli getbenchmarks >/home/culum/data.json
-*/5 * * * * /usr/bin/curl -H "Content-Type: application/json" -X POST -d  @"/home/culum/data.json" -s https://fluxuryapi.azurewebsites.net/api/FluxBenchInfo
