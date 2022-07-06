@@ -1,2 +1,0 @@
-@reboot /home/culum/ip_check.sh restart
-*/15 * * * * /home/culum/ip_check.sh ip_check
