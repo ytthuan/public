@@ -1,0 +1,846 @@
+[
+ {
+   "question": "Điều kiện để trở thành Người được bảo hiểm của sản phẩm Bảo hiểm Tai nạn đa năng như thế nào?",
+   "answer": "Người được bảo hiểm đáp ứng đầy đủ các điều kiện sau tại thời điểm tham gia bảo hiểm:\nTừ đủ 01 tuổi đến trước khi đủ 65 tuổi;\nKhông bị tâm thần, phong;\nKhông bị thương tật vĩnh viễn từ 50% trở lên;\nKhông đang trong thời gian điều trị thương tật.\n\nVà là cá nhân có quan hệ với Bên mua bảo hiểm như sau:\nBản thân;\nVợ/chồng hợp pháp;\nCon đẻ; con nuôi hợp pháp; con riêng đang sống cùng Bên mua bảo hiểm\nCha/mẹ đẻ; cha/mẹ kế hợp pháp; cha/mẹ của vợ/chồng; cha/mẹ nuôi hợp pháp;\nAnh/chị/em ruột"
+ },
+ {
+   "question": "Bên mua bảo hiểm có thể khác Người được bảo hiểm được không?",
+   "answer": "Có, Bên mua bảo hiểm có thể khác Người được bảo hiểm, nhưng phải đáp ứng mối quan hệ được bảo hiểm theo Luật Kinh Doanh bảo hiểm. Lưu ý, khi mua bảo hiểm theo gói hộ gia đình, Bên mua bảo hiểm bắt buộc là một trong số Người được bảo hiểm."
+ },
+ {
+   "question": "Khi tham gia bảo hiểm, Người được bảo hiểm phải cung cấp những thông tin gì?",
+   "answer": "Người được bảo hiểm cần cung cấp các thông tin: Họ và tên, Ngày tháng năm sinh, quan hệ với Bên mua bảo hiểm."
+ },
+ {
+   "question": "Bên mua bảo hiểm có thể tham gia nhiều hợp đồng bảo hiểm, cho tất cả những người trong gia đình được không?",
+   "answer": "Có, Bên mua bảo hiểm có thể là Bên mua bảo hiểm cho nhiều Hợp đồng bảo hiểm Tai nạn đa năng, bảo vệ cho tất cả những người trong gia đình."
+ },
+ {
+   "question": "Người được bảo hiểm có thể tham gia nhiều hợp đồng Bảo hiểm Tai nạn đa năng được không?",
+   "answer": "Không, mỗi NĐBH (trường hợp tham gia bảo hiểm cá nhân) hoặc mỗi gia đình (trường hợp tham gia theo hộ gia đình) chỉ được tham gia một Hợp đồng bảo hiểm theo chương trình bảo hiểm này"
+ },
+ {
+   "question": "Thời hạn bảo hiểm của sản phẩm Tai nạn đa năng là bao lâu?",
+   "answer": "Thời hạn bảo hiểm là 01 (một) năm."
+ },
+ {
+   "question": "Phạm vi địa lý cho các rủi ro được bảo hiểm của sản phẩm bảo hiểm Tai nạn đa năng được quy định như thế nào?",
+   "answer": "Hợp Đồng Bảo Hiểm này chỉ bảo hiểm cho các Sự kiện Bảo hiểm xảy ra trong lãnh thổ Việt Nam trong Thời hạn Hiệu lực với các rủi ro do nguyên nhân tai nạn."
+ },
+ {
+   "question": "Các quyền lợi bảo hiểm của sản phẩm bảo hiểm tai nạn gồm những gì?",
+   "answer": "Các quyền lợi của sản phẩm Bảo hiểm Tai nạn đa năng bao gồm:\n\nQuyền lợi bảo hiểm Tử vong, thương tật toàn bộ vĩnh viễn do Tai nạn.\n\nQuyền lợi bảo hiểm trợ cấp nằm viện do Tai nạn.\n\nQuyền lợi hỗ trợ chi phí giáo dục do Người được bảo hiểm tử vong hoặc thương tật toàn bộ vĩnh viễn do Tai nạn"
+ },
+ {
+   "question": "Gói Vui khỏe của Chương trình bảo hiểm Tai nạn đa năng có các quyền lợi như thế nào?",
+   "answer": "Chương trình bảo hiểm Tai nạn đa năng gói Vui khỏe có các mức quyền lợi cụ thể:\n\nQuyền lợi Tử vong, thương tật toàn bộ vĩnh viễn do tai nạn lên tới 200.000.000 đồng.\n\nQuyền lợi trợ cấp nằm viện do Tai nạn: 200.000 đồng/01 ngày nằm viện liên tiếp. Tối đa lên tới 30 ngày trong suốt quá trình tham gia bảo hiểm.\n\nQuyền lợi hỗ trợ chi phí giáo dục trong trường hợp Người được bảo hiểm tử vong, thương tật toàn bộ vĩnh viễn do tai nạn: 10.000.000 đồng/ mỗi người con. Tối đa 04 con."
+ },
+ {
+   "question": "Gói Hạnh phúc của Chương trình bảo hiểm Tai nạn đa năng có các quyền lợi như thế nào?",
+   "answer": "Chương trình bảo hiểm Tai nạn đa năng gói Hạnh phúc có các mức quyền lợi cụ thể:\n\nQuyền lợi Tử vong, thương tật toàn bộ vĩnh viễn do tai nạn lên tới 400.000.000 đồng.\n\nQuyền lợi trợ cấp nằm viện do Tai nạn: 400.000 đồng/01 ngày nằm viện liên tiếp. Tối đa lên tới 30 ngày trong suốt quá trình tham gia bảo hiểm.\n\nQuyền lợi hỗ trợ chi phí giáo dục trong trường hợp Người được bảo hiểm tử vong, thương tật toàn bộ vĩnh viễn do tai nạn: 20.000.000 đồng/ mỗi người con. Tối đa 04 con."
+ },
+ {
+   "question": "Gói Vẹn tròn của Chương trình bảo hiểm Tai nạn đa năng có các quyền lợi như thế nào?",
+   "answer": "Chương trình bảo hiểm Tai nạn đa năng gói Hạnh phúc có các mức quyền lợi cụ thể:\n\nQuyền lợi Tử vong, thương tật toàn bộ vĩnh viễn do tai nạn lên tới 600.000.000 đồng.\n\nQuyền lợi trợ cấp nằm viện do Tai nạn: 600.000 đồng/01 ngày nằm viện liên tiếp. Tối đa lên tới 30 ngày trong suốt quá trình tham gia bảo hiểm.\n\nQuyền lợi hỗ trợ chi phí giáo dục trong trường hợp Người được bảo hiểm tử vong, thương tật toàn bộ vĩnh viễn do tai nạn: 30.000.000 đồng/ mỗi người con. Tối đa 04 con."
+ },
+ {
+   "question": "Tôi có thể điều chỉnh tăng/giảm thời hạn bảo hiểm không?",
+   "answer": "Rất tiếc, sản phẩm Tai nạn đa năng đã được thiết kế với thời hạn cố định là 01 (một) năm nên không thể điều chỉnh tăng giảm."
+ },
+ {
+   "question": "Bên mua bảo hiểm muốn yêu cầu đơn phương chấm dứt hợp đồng bảo hiểm, OPES có hoàn phí bảo hiểm không?",
+   "answer": "Trường hợp Bên mua bảo hiểm yêu cầu đơn phương chấm dứt hợp đồng bảo hiểm và chưa phát sinh quyền lợi yêu cầu bảo hiểm, OPES hoàn lại cho Bên mua bảo hiểm 80% phí đã đóng cho khoảng thời gian còn lại của Hợp đồng bảo hiểm."
+ },
+ {
+   "question": "Tôi kê khai sai các thông cá nhân của người tham gia bảo hiểm. Tôi cần cung cấp chứng từ gì để điều chỉnh thông tin hay không?",
+   "answer": "Trong trường hợp thay đổi các thông tin như họ và tên, số giấy tờ tùy thân, ngày tháng năm sinh, bạn vui lòng cung cấp giấy tờ chứng minh thông tin chính xác. Trong trường hợp thay đổi địa chỉ email và số điện thoại, bạn không cần cung cấp giấy tờ kèm theo."
+ },
+ {
+   "question": "Tôi nhận được chứng nhận bảo hiểm, nhưng sai thông tin ngày tháng năm sinh của Người được Bảo hiểm, tôi yêu cầu thay đổi như thế nào?",
+   "answer": "Bạn vui lòng liên hệ đến Dịch vụ khách hàng của OPES bằng các kênh liên hệ (chi tiết ở câu 27) để thực hiện yêu cầu"
+ },
+ {
+   "question": "Người được Bảo hiểm bị tử vong nhưng không phải do nguyên nhân Tai Nạn, OPES có chi trả trong trường hợp này không?",
+   "answer": "OPES chỉ bảo hiểm với Sự kiện bảo hiểm có nguyên nhân do Tai Nạn."
+ },
+ {
+   "question": "Số tiền chi trả đối với Quyền lợi bảo hiểm Tử vong?",
+   "answer": "OPES sẽ chi trả số tiền bằng 100% Số tiền Bảo hiểm của quyền lợi này."
+ },
+ {
+   "question": "Số tiền chi trả đối với trường hợp Người Được Bảo Hiểm bị Thương Tật Toàn bộ Vĩnh Viễn?",
+   "answer": "OPES sẽ chi trả số tiền bằng 100% Số tiền bảo hiểm của quyền lợi này."
+ },
+ {
+   "question": "Tôi bị tai nạn phải nằm viện điều trị 45 ngày, tôi có được trợ cấp nằm viện cho toàn bộ thời gian nằm viện không?",
+   "answer": "Rất tiếc, OPES chỉ có thể chi trả tối đa là 30 ngày theo giới hạn tối đa của quyền lợi trợ cấp nằm viện."
+ },
+ {
+   "question": "Khi xảy ra sự kiện bảo hiểm, khách hàng cần thông báo cho OPES trong vòng bao nhiêu ngày?",
+   "answer": "Trong trường hợp xảy ra Sự kiện Bảo hiểm, bạn hãy lưu ý tình trạng sức khỏe của bản thân là quan trọng nhất, cần ưu tiên cứu chữa đảm bảo an toàn cho sức khỏe, sau đó thông báo cho Công ty Bảo Hiểm trong vòng 30 ngày kể từ ngày sự kiện bảo hiểm, trừ trường hợp chậm trễ do nguyên nhân khách quan và bất khả kháng theo quy định của pháp luật"
+ },
+ {
+   "question": "OPES có quy định người thông báo Sự kiện Bảo hiểm phải là người nào không?",
+   "answer": "Người thông báo với OPES về Sự kiện Bảo hiểm xảy ra có thể là Bên mua Bảo hiểm hoặc Người được Bảo hiểm hoặc Người thụ hưởng (hoặc người đại diện của họ)."
+ },
+ {
+   "question": "OPES quy định thời hạn yêu cầu giải quyết quyền lợi bảo hiểm như thế nào?",
+   "answer": "Bạn cần gửi yêu cầu giải quyết quyền lợi bảo hiểm cho OPES trong thời hạn 01 năm kể từ ngày xảy ra Sự kiện Bảo hiểm."
+ },
+ {
+   "question": "Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm cần chuẩn bị khi phát sinh sự kiện bảo hiểm gồm những gì?",
+   "answer": "Để hoàn thiện yêu cầu bồi thường bảo hiểm trên ứng dụng OPES, bạn cần cung cấp cho OPES các thông tin/hình ảnh chứng từ sau:\n\n1. Thông tin cơ bản về vụ tai nạn: thời gian; địa điểm xảy ra tai nạn; nguyên nhân vụ tai nạn; hậu quả/chẩn đoán.\n\n2. Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm:\n\nQuyền lợi Trợ cấp nằm viện: Hình ảnh Giấy ra viện/Hồ sơ y tế điều trị sau Tai nạn\n\nQuyền lợi Tử vong: Trích lục khai tử\n\nQuyền lợi Thương tật toàn bộ vĩnh viễn: Chứng nhận thương tật\n\n3. Thông tin tài khoản thụ hưởng.\n\nLưu ý: Trên đây là những thông tin/chứng từ cơ bản bạn cần cung cấp bước đầu tới OPES. Sau khi tiếp nhận thông tin cụ thể về rủi ro của bạn, OPES sẽ có hướng dẫn hồ sơ chi tiết cần hoàn thiện gửi tới bạn trong vòng 01 ngày làm việc kể từ thời điểm OPES tiếp nhận thông tin."
+ },
+ {
+   "question": "Khi tôi đã nộp đủ hồ sơ giải quyết quyền lợi bảo hiểm cho OPES thì việc thực hiện giải quyết quyền lợi bảo hiểm sẽ được công ty triển khai lúc nào?",
+   "answer": "OPES sẽ có thông báo về phương án bồi thường chính thức trong vòng 02 ngày làm việc kể từ ngày nhận được hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm đầy đủ và hợp lệ."
+ },
+ {
+   "question": "Sau khi nhận được thông báo chi trả của Công ty, sau bao lâu tôi sẽ nhận được tiền giải quyết quyền lợi bảo hiểm?",
+   "answer": "Bạn cần thực hiện việc xác nhận đồng ý với phương án bồi thường. Trong vòng 12 giờ làm việc sau khi có xác nhận này, OPES sẽ chuyển tiền tới tài khoản của bạn."
+ },
+ {
+   "question": "Tôi không thực hiện việc xác nhận nhận tiền chi trả bảo hiểm? Trường hợp này tôi có bị ảnh hưởng quyền lợi của mình không?",
+   "answer": "Trong vòng 02 ngày làm việc kể từ ngày OPES gửi thông báo phương án chi trả, nếu khách hàng không có phản hồi về phương án này, OPES sẽ thực hiện việc chuyển tiền tới khách hàng theo quy định."
+ },
+ {
+   "question": "Trong trường hợp tôi cần hỗ trợ hoặc có những thắc mắc về dịch vụ, tôi có thể liên hệ với OPES qua các kênh nào?",
+   "answer": "OPES sẵn sàng hỗ trợ bạn trong thời gian 8h-12h & 13h30 - 17h30 các ngày làm việc từ Thứ Hai tới Thứ Sáu:\nHotline: 1800 55 88 55 (miễn phí)\nCửa sổ chat hỗ trợ:\nTrên website www.opes.com.vn\nTrên Facebook Messenger: Page OPES\nEmail: dichvukhachhang@opes.com.vn\nCác vấn đề liên quan tới bồi thường được hỗ trợ 24/7 qua nhánh 1 của số Hotline 1800 55 88 55."
+ },
+ {
+   "question": "",
+   "answer": ""
+ },
+ {
+   "question": "Ai có thể tham gia sản phẩm Bảo hiểm Trễ chuyến bay?",
+   "answer": "Mọi khách hàng từ đủ 18 tuổi, hiện đang cư trú tại Việt Nam đều có thể thực hiện việc tham gia Bảo hiểm Trễ chuyến bay tại ứng dụng OPES"
+ },
+ {
+   "question": "Tôi muốn mua bảo hiểm cho nhiều người trên cùng một chuyến bay được không?",
+   "answer": "Bạn có thể mua bảo hiểm cho tất cả những Người Được Bảo Hiểm theo thông tin đặt vé."
+ },
+ {
+   "question": "Tôi có thể mua bảo hiểm Trễ chuyến bay tại thời điểm nào?",
+   "answer": "Bạn cần mua bảo hiểm Trễ chuyến bay trước 24 giờ kể từ giờ khởi hành dự kiến của chuyến bay được bảo hiểm."
+ },
+ {
+   "question": "Tôi có kế hoạch mua vé máy bay đi du lịch trước 2 tháng, vậy tôi có thể mua bảo hiểm trễ chuyến bay cùng lúc với thời điểm mua vé máy bay được không?",
+   "answer": "OPES rất tiếc chưa thể hỗ trợ bạn trong trường hợp này, thời gian mua bảo hiểm trễ chuyến bay tối đa là 01 tháng trước thời điểm khởi hành dự kiến."
+ },
+ {
+   "question": "Có giới hạn nào cho số lượng hợp đồng bảo hiểm trên mỗi chuyến bay không?",
+   "answer": "Theo quy định nghiệp vụ, với mỗi chuyến bay, OPES cung cấp không quá 30 hợp đồng bảo hiểm."
+ },
+ {
+   "question": "Tôi thấy phí bảo hiểm cho các chuyến bay của mình không giống nhau?",
+   "answer": "Nhằm tối ưu chi phí cho khách hàng, phí bảo hiểm của sản phẩm bảo hiểm Trễ chuyến bay của OPES được xác định linh hoạt, riêng biệt cho từng hãng hàng không, tuyến đường bay, và khung giờ bay."
+ },
+ {
+   "question": "Tôi có thể tham gia nhiều hợp đồng bảo hiểm cho một người được bảo hiểm trên một chuyến bay xác định không?",
+   "answer": "Không. Mỗi người được bảo hiểm chỉ được tham gia 01 Hợp Đồng Bảo Hiểm trên một chuyến bay xác định."
+ },
+ {
+   "question": "",
+   "answer": ""
+ },
+ {
+   "question": "Bảo hiểm Trễ chuyến bay áp dụng cho những chuyến bay nào?",
+   "answer": "Tất cả các chuyến bay nội địa tại Việt Nam."
+ },
+ {
+   "question": "Tôi cần lưu ý gì khi tham gia chuyến bay để việc yêu cầu bồi thường sau này được thuận lợi?",
+   "answer": "Bạn cần giữ lại hoặc chụp hình lại Thẻ lên máy bay (Boarding pass), đây là chứng từ bắt buộc Bạn cần cung cấp để hoàn thiện yêu cầu bồi thường bảo hiểm."
+ },
+ {
+   "question": "Khách hàng có thể tự tra cứu thông tin tình trạng chuyến bay (cất cánh, hạ cánh, trễ, hủy) của mình được không?",
+   "answer": "Với nhà cung cấp dữ liệu độc lập FlightAware, bạn có thể kiểm tra tình trạng các chuyến bay bằng cách truy cập vào địa chỉ https://flightaware.com/live/flight/[số hiệu chuyến bay]\n\nVí dụ: https://flightaware.com/live/flight/HVN226\n\nTrong đó \"HVN226\" là số hiệu của Chuyến Bay Được Bảo Hiểm."
+ },
+ {
+   "question": "Tôi đã tham gia Bảo hiểm Trễ chuyến bay cho chuyến bay trong 3 ngày tới, khi còn 2 ngày trước khi bay tôi nhận được thông tin thay đổi từ Hãng Hàng Không lùi lại giờ khởi hành dự kiến so với trước đây, vậy tôi có cần thông báo việc này tới OPES?",
+   "answer": "Trường hợp trước 24 giờ kể từ thời điểm khởi hành dự kiến của Chuyến bay được bảo hiểm theo lịch trình được công bố gần nhất của Hãng hàng không, hệ thống của OPES sẽ tự động cập nhật và gửi đến bạn những thông tin đã Sửa đổi, bổ sung, trong đó ghi nhận Giờ khởi hành sự kiến của Chuyến bay được bảo hiểm theo lịch trình mới. Như vậy, bạn sẽ không cần thông báo mà chờ hệ thống tự động gửi văn bản ghi nhận Giờ Khởi Hành Dự Kiến của Chuyến Bay Được Bảo Hiểm theo lịch trình mới."
+ },
+ {
+   "question": "Giờ Khởi Hành Thực Tế được tính từ thời điểm máy bay rời khỏi mặt đất bay lên hay là thời điểm máy bay bắt đầu lăn bánh di chuyển ra đường lăn?",
+   "answer": "Giờ Khởi Hành Thực Tế là thời gian (ngày, giờ, phút) khởi hành thực tế của Chuyến Bay Được Bảo Hiểm căn cứ vào dữ liệu của Tổ chức cung cấp dữ liệu bay, được tính là thời điểm máy bay bắt đầu lăn bánh di chuyển ra đường lăn (Taxi)."
+ },
+ {
+   "question": "Quyền lợi Trễ Chuyến Bay được quy định như thế nào?",
+   "answer": "Chuyến Bay Được Bảo Hiểm có \"Giờ Khởi Hành Thực Tế\" bị trễ so với \"Giờ Khởi Hành Dự Kiến\" với điều kiện việc trễ chuyến bay không phải do nguyên nhân chủ quan của bạn và Thời Gian Trễ chuyến bay đạt đến thời gian quy định trong Chứng Nhận Bảo Hiểm, OPES sẽ chi trả cho bạn Số Tiền Bảo Hiểm tương ứng với quyền lợi bạn đã được thông tin trong Chứng Nhận Bảo Hiểm."
+ },
+ {
+   "question": "Việc trễ chuyến bay sẽ bị loại trừ trong những trường hợp nào?",
+   "answer": "Các trường hợp loại trừ trách nhiệm bảo hiểm trong trường hợp OPES có bằng chứng chứng minh:\n\n1. Chuyến Bay Được Bảo Hiểm bị trễ chuyến do đình công, bãi công; chiến tranh, bạo động, khủng bố; theo yêu cầu của cơ quan nhà nước có thẩm quyền;\n\n2. Trong thực tế, bạn không có mặt trên Chuyến Bay Được Bảo Hiểm bị trễ chuyến."
+ },
+ {
+   "question": "Thủ tục yêu cầu giải quyết quyền lợi bảo hiểm của Bảo hiểm Trễ chuyến bay như thế nào?",
+   "answer": "Trong vòng 24 giờ kể từ thời điểm Chuyến Bay Được Bảo Hiểm khởi hành, OPES sẽ tự động gửi thông báo bồi thường bảo hiểm cho bạn.\n\nSau khi nhận được thông báo bồi thường bảo hiểm, bạn vui lòng đăng nhập ứng dụng OPES tại mục Bồi thường, để cung cấp các hình ảnh và thông tin bao gồm:\n\n1. Ảnh chụp Boarding pass/ Thẻ lên máy bay điện tử.\n\n2. Thông tin tài khoản thụ hưởng\n\nLưu ý: Bạn chỉ cần thực hiện cung cấp tài liệu liên quan tới bồi thường qua cổng thông tin mà không cần gửi chuyển phát đến OPES."
+ },
+ {
+   "question": "Tôi không nhận được thông báo bồi thường bảo hiểm của OPES, nhưng trên thực tế chuyến bay của tôi bị Trễ chuyến, tình huống này tôi phải xử lý như thế nào?",
+   "answer": "Trong trường hợp sau 24 giờ kể từ thời điểm kết thúc chuyến bay mà bạn chưa nhận được Thông báo bồi thường bảo hiểm tự động của OPES liên quan tới chuyến bay bị trễ, bạn vui lòng đăng nhập ứng dụng OPES, tại Mục Bồi thường để chủ động thực hiện yêu cầu bồi thường bảo hiểm.\nBạn cần cung cấp cho OPES các hình ảnh và thông tin bao gồm:\n\nThông tin thời gian bay thực tế;\n\nẢnh chụp Boarding pass/ Thẻ lên máy bay điện tử;\n\nẢnh chụp tin nhắn/ email của Hãng bay về việc thay đổi giờ bay (nếu có);\n\nThông tin tài khoản thụ hưởng.\n\nLưu ý: Bạn chỉ cần thực hiện cung cấp tài liệu liên quan tới bồi thường qua cổng thông tin (online) mà không cần gửi chuyển phát (offline) đến OPES."
+ },
+ {
+   "question": "Trong trường hợp tôi được OPES chấp nhận chi trả, trong bao lâu tôi sẽ nhận được tiền bảo hiểm?",
+   "answer": "Trường hợp bạn nhận được Thông báo bồi thường bảo hiểm tự động: kể từ thời điểm OPES nhận đầy đủ các thông tin được bạn cung cấp, OPES sẽ hoàn thành thủ tục thanh toán tới tài khoản thụ hưởng của bạn trong vòng tối đa 12 giờ làm việc.\n\nTrường hợp bạn không nhận được Thông báo bồi thường bảo hiểm tự động: kể từ thời điểm OPES gửi thông báo bồi thường bảo hiểm tới bạn, OPES sẽ hoàn thành thủ tục thanh toán tới tài khoản thụ hưởng của bạn trong vòng tối đa 12 giờ làm việc."
+ },
+ {
+   "question": "Trong trường hợp xảy ra việc giải quyết quyền lợi bảo hiểm quá đặc biệt, không theo tiến trình chi trả tự động và phải cung cấp thêm thông tin, tài liệu chứng minh, sau bao lâu tôi mới có thể nhận được tiền bảo hiểm?",
+   "answer": "Trong thời hạn 15 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ bạn cung cấp, OPES sẽ trả tiền bảo hiểm cho bạn theo phương thức mà bạn đã lựa chọn."
+ },
+ {
+   "question": "Trong trường hợp tôi cần hỗ trợ hoặc có những thắc mắc về dịch vụ, tôi có thể liên hệ với OPES qua các kênh nào?",
+   "answer": "OPES sẵn sàng hỗ trợ bạn trong thời gian 8h-12h & 13h30 - 17h30 các ngày làm việc từ Thứ Hai tới Thứ Sáu:\n\nHotline: 1800 55 88 55 (miễn phí)\n\nCửa sổ chat hỗ trợ:\n\nTrên website www.opes.com.vn\n\nTrên Facebook Messenger: Page OPES\n\nEmail: dichvukhachhang@opes.com.vn\n\nCác vấn đề liên quan tới bồi thường được hỗ trợ 24/7 qua nhánh 1 của số Hotline 1800 55 88 55."
+ },
+ {
+   "question": "Bảo hiểm bắt buộc trách nhiệm dân sự (TNDS) của chủ xe cơ giới là gì?",
+   "answer": "Là loại hình bảo hiểm mà các cá nhân hoặc doanh nghiệp phải mua theo luật định nhằm bảo vệ quyền lợi cho nạn nhân khi gặp tai nạn giao thông do xe cơ giới gây ra, mặt khác giúp bảo vệ tài chính cho chủ xe cơ giới trước những rủi ro bất ngờ."
+ },
+ {
+   "question": "Đối tượng áp dụng các quy định của pháp luật về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới là ai?",
+   "answer": "Là các đối tượng theo quy định của Nghị định 03/2021/NĐ-CP, bao gồm:\n\nChủ xe cơ giới tham gia giao thông trên lãnh thổ nước Việt Nam.\n\nDoanh nghiệp bảo hiểm được phép triển khai bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới theo quy định của pháp luật.\n\nCơ quan, tổ chức, cá nhân khác có liên quan đến bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới."
+ },
+ {
+   "question": "Xe cơ giới tham gia bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe ô tô gồm những loại nào?",
+   "answer": "Là phương tiện giao thông cơ giới đường bộ gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe máy chuyên dùng theo quy định của Luật Giao thông đường bộ"
+ },
+ {
+   "question": "Khái niệm Bên thứ ba trong bảo hiểm bắt buộc TNDS của chủ xe cơ giới đối với Bên thứ ba có bao gồm tất cả các nạn nhân bị thiệt hại về người và/hoặc tài sản trong các vụ tai nạn do xe cơ giới gây ra hay không?",
+   "answer": "Theo Nghị định 03/2021/NĐ-CP, “Bên thứ ba” là người bị thiệt hại về thân thể, tính mạng, tài sản do xe cơ giới gây ra, trừ những người sau:\n\nNgười lái xe, người trên chính chiếc xe đó;\n\nChủ sở hữu xe trừ trường hợp chủ sở hữu đã giao cho tổ chức, cá nhân khác chiếm hữu, sử dụng chiếc xe đó."
+ },
+ {
+   "question": "Chủ xe cơ giới có thể tham gia 02 bảo hiểm trách nhiệm bắt buộc của chủ xe cơ giới cho cùng một xe cơ giới được không?",
+   "answer": "Không, theo Nghị định 03/2021/NĐ-CP quy định, chủ xe cơ giới không được đồng thời tham gia hai hợp đồng bảo hiểm bắt buộc trách nhiệm dân sự trở lên cho cùng một xe cơ giới."
+ },
+ {
+   "question": "Thời hạn bảo hiểm khi tham gia bảo hiểm bắt buộc TNDS chủ xe cơ giới cho xe ô tô của OPES là bao lâu?",
+   "answer": "Bạn có thể lựa chọn tham gia với các thời hạn: 12 tháng; 18 tháng; 24 tháng."
+ },
+ {
+   "question": "Chủ xe cơ giới muốn hủy bỏ hợp đồng bảo hiểm bắt buộc TNDS của chủ xe cơ giới có được không?",
+   "answer": "Chủ xe cơ giới được yêu cầu hủy hợp đồng bảo hiểm trong các trường hợp phải thu hồi Giấy chứng nhận đăng ký xe, biển số xe theo quy định của Bộ Công an."
+ },
+ {
+   "question": "Việc thay thế Giấy chứng nhận bảo hiểm điện tử thay cho tờ giấy chứng nhận viết tay thường gặp trước đây có gây khó khăn trong việc sử dụng không?",
+   "answer": "Không, vì:\n\nPhù hợp với quy định của Nghị định 03/2021/NĐ-CP, chính thức có hiệu lực từ 01/03/2021, việc cấp và sử dụng chứng nhận bảo hiểm điện tử đối với Bảo hiểm bắt buộc TNDS của chủ xe cơ giới đã trở nên phổ biến.\n\nCác khách hàng tham gia Bảo hiểm bắt buộc TNDS của chủ xe cơ giới tại OPES đều đang nhận chứng nhận bảo hiểm điện tử với chữ ký số của công ty và mã kiểm tra được đăng ký với Bộ Khoa học và Công nghệ.\n\nBạn sẽ tránh được việc thất lạc hay để quên giấy tờ này khi chỉ cần có bản lưu trên thiết bị di động hoặc mạng internet là có thể tiếp cận được."
+ },
+ {
+   "question": "Thủ tục hủy bỏ hợp đồng bảo hiểm bắt buộc TNDS của chủ xe cơ giới bao gồm những gì?",
+   "answer": "Nếu muốn hủy bỏ hợp đồng bảo hiểm, chủ xe cơ giới cần thông báo bằng văn bản cho OPES kèm theo quyết định, thông báo của cơ quan có thẩm quyền về việc thu hồi Giấy chứng nhận đăng ký xe, biển số xe."
+ },
+ {
+   "question": "Chủ xe cơ giới đủ điều kiện hủy bỏ hợp đồng bảo hiểm bắt buộc TNDS của chủ xe cơ giới có được hoàn phí không?",
+   "answer": "Có, OPES phải hoàn lại cho chủ xe cơ giới phí bảo hiểm đã đóng tương ứng với thời gian còn lại của hợp đồng bảo hiểm, sau khi đã trừ đi các chi phí hợp lý có liên quan đến hợp đồng bảo hiểm. OPES không phải hoàn phí bảo hiểm trong trường hợp đã xảy ra sự kiện bảo hiểm và phát sinh trách nhiệm bồi thường bảo hiểm trước khi Hợp đồng bảo hiểm bị chấm dứt."
+ },
+ {
+   "question": "Chủ xe cơ giới có quyền thỏa thuận hợp đồng bảo hiểm khi tham gia bảo hiểm bắt buộc TNDS không?",
+   "answer": "Không, vì Nghị Định 03/2021/NĐ-CP và Thông tư số 04/2021/TT-BTC đã quy định rõ ràng quy tắc điều khoản, biểu phí và bảng trả tiền bảo hiểm bắt buộc TNDS của chủ xe cơ giới để các doanh nghiệp và chủ xe cơ giới cùng tuân thủ."
+ },
+ {
+   "question": "Hiện nay, các chủ xe ô tô tham gia bảo hiểm bắt buộc TNDS với mức trách nhiệm theo quy định là bao nhiêu?",
+   "answer": "Theo Thông tư 04/2021/TT-BTC:\n\n1. Mức trách nhiệm bảo hiểm đối với thiệt hại về sức khỏe, tính mạng là một trăm năm mươi (150) triệu đồng cho một người trong một vụ tai nạn.\n\n2. Mức trách nhiệm bảo hiểm đối với thiệt hại về tài sản là một trăm (100) triệu đồng trong một vụ tai nạn.\n"
+ },
+ {
+   "question": "Thời hạn yêu cầu bồi thường của Chủ xe cơ giới là bao lâu?",
+   "answer": "01 năm kể từ ngày xảy ra tai nạn, trừ trường hợp chậm trễ do nguyên nhân khách quan và bất khả kháng theo quy định của pháp luật."
+ },
+ {
+   "question": "Chủ xe cơ giới phải thông báo về tai nạn trong vòng bao lâu?",
+   "answer": "Trong thời hạn 05 ngày làm việc kể từ ngày xảy ra tai nạn (trừ trường hợp bất khả kháng), chủ xe cơ giới cần gửi thông báo tai nạn cho OPES (bằng văn bản hoặc qua trang khai báo bồi thường điện tử)."
+ },
+ {
+   "question": "OPES sẽ thanh toán bồi thường cho Chủ xe cơ giới trong vòng bao nhiêu lâu?",
+   "answer": "Trong vòng 15 ngày kể từ khi nhận được đầy đủ hồ sơ yêu cầu bồi thường bảo hiểm hợp lệ, OPES sẽ có thông báo chi trả bồi thường gửi tới chủ xe cơ giới qua email hoặc thông báo bản cứng (gửi qua bưu điện)."
+ },
+ {
+   "question": "Trách nhiệm của chủ xe, lái xe là Người được bảo hiểm với Bảo hiểm bắt buộc TNDS của chủ xe cơ giới khi xảy ra tai nạn là gì?",
+   "answer": "Thông báo ngay cho OPES để phối hợp giải quyết, tích cực cứu chữa, hạn chế thiệt hại về sức khỏe, tính mạng và tài sản, bảo vệ hiện trường tai nạn; thông báo ngay cho cơ quan Công an hoặc chính quyền địa phương nơi gần nhất để phối hợp giải quyết vụ tai nạn giao thông theo quy định và phối hợp với cơ quan chức năng trong việc điều tra, xác minh nguyên nhân vụ tai nạn giao thông.\n\nKhông được di chuyển, tháo gỡ hoặc sửa chữa tài sản khi chưa có ý kiến chấp thuận của OPES; trừ trường hợp cần thiết để đảm bảo an toàn, đề phòng hạn chế thiệt hại về sức khỏe, tính mạng và tài sản hoặc phải thi hành theo yêu cầu của cơ quan có thẩm quyền.\n\nChủ động thu thập và cung cấp các tài liệu quy định trong hồ sơ yêu cầu bồi thường bảo hiểm thuộc trách nhiệm của Bên mua bảo hiểm, Người được bảo hiểm cho OPES."
+ },
+ {
+   "question": "Khi xảy ra tai nạn thuộc phạm vi bảo hiểm bắt buộc TNDS chủ xe cơ giới thì OPES có trách nhiệm bồi thường cho ai?",
+   "answer": "OPES có trách nhiệm bồi thường cho chủ xe cơ giới số tiền mà chủ xe cơ giới đã bồi thường hoặc sẽ bồi thường cho cho người bị thiệt hại.\n\nTrường hợp chủ xe cơ giới tử vong hoặc thương tật toàn bộ vĩnh viễn, OPES bồi thường trực tiếp cho người bị thiệt hại.\n\nTrường hợp cần thiết, OPES phải tạm ứng ngay những chi phí cần thiết và hợp lý trong phạm vi trách nhiệm bảo hiểm nhằm khắc phục hậu quả tai nạn."
+ },
+ {
+   "question": "Mức tạm ứng bồi thường đối với thiệt hại về sức khỏe, tính mạng của bảo hiểm bắt buộc TNDS chủ xe cơ giới như thế nào?",
+   "answer": "1. Trường hợp đã xác định được vụ tai nạn thuộc phạm vi bồi thường thiệt hại:\n\n70% mức bồi thường bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tử vong.\n\n50% mức bồi thường Bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tổn thương bộ phận được điều trị cấp cứu.\n\n2. Trường hợp chưa xác định được vụ tai nạn thuộc phạm vi bồi thường thiệt hại:\n\n30% mức trách nhiệm bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tử vong.\n\n10% mức trách nhiệm bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tổn thương bộ phận được điều trị cấp cứu.\n"
+ },
+ {
+   "question": "Tôi sẽ tra cứu Chứng nhận bảo hiểm bắt buộc TNDS chủ xe cơ giới ở đâu?",
+   "answer": "Bạn vui lòng tra cứu chứng nhận bảo hiểm trên ứng dụng OPES tại mục Tiện ích/Hợp đồng bảo hiểm"
+ },
+ {
+   "question": "Tôi có thể không nhớ thời hạn bảo hiểm bắt buộc TNDS còn đến bao giờ, vậy công ty có thông báo gì khi bảo hiểm của tôi sắp hết hạn không?",
+   "answer": "Trong vòng 15 ngày trước khi hết thời hạn bảo hiểm, OPES sẽ thông báo cho bạn về việc hết thời hạn của Hợp đồng bảo hiểm."
+ },
+ {
+   "question": "Trong trường hợp tôi cần hỗ trợ hoặc có những thắc mắc về dịch vụ, tôi có thể liên hệ với OPES qua các kênh nào?",
+   "answer": "OPES sẵn sàng hỗ trợ bạn trong thời gian 8h-12h & 13h30 - 17h30 các ngày làm việc từ Thứ Hai tới Thứ Sáu:\n\nHotline: 1800 55 88 55 (miễn phí)\n\nCửa sổ chat hỗ trợ:\n\nTrên website www.opes.com.vn\n\nTrên Facebook Messenger: Page OPES\n\nEmail: dichvukhachhang@opes.com.vn\n\nCác vấn đề liên quan tới bồi thường được hỗ trợ 24/7 qua nhánh 1 của số Hotline 1800 55 88 55."
+ },
+ {
+   "question": "Bảo hiểm bắt buộc trách nhiệm dân sự (TNDS) của chủ xe cơ giới là gì?",
+   "answer": "Là loại hình bảo hiểm mà các cá nhân hoặc doanh nghiệp phải mua theo luật định nhằm bảo vệ quyền lợi cho nạn nhân khi gặp tai nạn giao thông do xe cơ giới gây ra, mặt khác giúp bảo vệ tài chính cho chủ xe cơ giới trước những rủi ro bất ngờ."
+ },
+ {
+   "question": "Đối tượng áp dụng các quy định của pháp luật về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới là ai?",
+   "answer": "Là các đối tượng theo quy định của Nghị định 03/2021/NĐ-CP, bao gồm:\n\nChủ xe cơ giới tham gia giao thông trên lãnh thổ nước Việt Nam.\n\nDoanh nghiệp bảo hiểm được phép triển khai bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới theo quy định của pháp luật.\n\nCơ quan, tổ chức, cá nhân khác có liên quan đến bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới."
+ },
+ {
+   "question": "Xe cơ giới tham gia bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe máy gồm những loại nào?",
+   "answer": "Là phương tiện giao thông cơ giới đường bộ gồm xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe có kết cấu tương tự theo quy định của Luật Giao thông đường bộ"
+ },
+ {
+   "question": "Khái niệm Bên thứ ba trong bảo hiểm bắt buộc TNDS của chủ xe cơ giới đối với Bên thứ ba có bao gồm tất cả các nạn nhân bị thiệt hại về người và/hoặc tài sản trong các vụ tai nạn do xe cơ giới gây ra hay không?",
+   "answer": "Theo Nghị định 03/2021/NĐ-CP, “Bên thứ ba” là người bị thiệt hại về thân thể, tính mạng, tài sản do xe cơ giới gây ra, trừ những người sau:\n\nNgười lái xe, người trên chính chiếc xe đó;\n\nChủ sở hữu xe trừ trường hợp chủ sở hữu đã giao cho tổ chức, cá nhân khác chiếm hữu, sử dụng chiếc xe đó."
+ },
+ {
+   "question": "Chủ xe cơ giới có thể tham gia 02 bảo hiểm trách nhiệm bắt buộc của chủ xe cơ giới cho cùng một xe cơ giới được không?",
+   "answer": "Không, theo Nghị định 03/2021/NĐ-CP quy định, chủ xe cơ giới không được đồng thời tham gia hai hợp đồng bảo hiểm bắt buộc trách nhiệm dân sự trở lên cho cùng một xe cơ giới."
+ },
+ {
+   "question": "Chủ xe cơ giới muốn hủy bỏ hợp đồng bảo hiểm bắt buộc TNDS của chủ xe cơ giới có được không?",
+   "answer": "Chủ xe cơ giới được yêu cầu hủy hợp đồng bảo hiểm trong các trường hợp phải thu hồi Giấy chứng nhận đăng ký xe, biển số xe theo quy định của Bộ Công an."
+ },
+ {
+   "question": "Chứng nhận bảo hiểm điện tử thay cho tờ giấy chứng nhận viết tay thường gặp trước đây có khó khăn trong việc sử dụng không?",
+   "answer": "Phù hợp với quy định của Nghị định 03/2021/NĐ-CP, chính thức có hiệu lực từ 01/03/2021, việc cấp và sử dụng chứng nhận bảo hiểm điện tử đối với Bảo hiểm bắt buộc TNDS của chủ xe cơ giới đã trở nên phổ biến.\n\nCác khách hàng tham gia Bảo hiểm bắt buộc TNDS của chủ xe cơ giới tại OPES đều đang nhận chứng nhận bảo hiểm điện tử với chữ ký số của công ty và mã kiểm tra được đăng ký với Bộ Khoa học và Công nghệ.\n\nBạn sẽ tránh được việc thất lạc hay để quên giấy tờ này khi chỉ cần có bản lưu trên thiết bị di động hoặc mạng internet là có thể tiếp cận được."
+ },
+ {
+   "question": "Thủ tục hủy bỏ hợp đồng bảo hiểm bắt buộc TNDS của chủ xe cơ giới bao gồm những gì?",
+   "answer": "Nếu muốn hủy bỏ hợp đồng bảo hiểm, chủ xe cơ giới cần thông báo bằng văn bản cho OPES kèm theo quyết định, thông báo của cơ quan có thẩm quyền về việc thu hồi Giấy chứng nhận đăng ký xe, biển số xe."
+ },
+ {
+   "question": "Chủ xe cơ giới đủ điều kiện hủy bỏ hợp đồng bảo hiểm bắt buộc TNDS của chủ xe cơ giới có được hoàn phí không?",
+   "answer": "Có, OPES phải hoàn lại cho chủ xe cơ giới phí bảo hiểm đã đóng tương ứng với thời gian còn lại của hợp đồng bảo hiểm, sau khi đã trừ đi các chi phí hợp lý có liên quan đến hợp đồng bảo hiểm. OPES không phải hoàn phí bảo hiểm trong trường hợp đã xảy ra sự kiện bảo hiểm và phát sinh trách nhiệm bồi thường bảo hiểm trước khi Hợp đồng bảo hiểm bị chấm dứt."
+ },
+ {
+   "question": "Chủ xe cơ giới có quyền thỏa thuận hợp đồng bảo hiểm khi tham gia bảo hiểm bắt buộc TNDS không?",
+   "answer": "Không, vì Nghị Định 03/2021/NĐ-CP và Thông tư số 04/2021/TT-BTC đã quy định rõ ràng quy tắc điều khoản, biểu phí và bảng trả tiền bảo hiểm bắt buộc TNDS của chủ xe cơ giới để các doanh nghiệp và chủ xe cơ giới cùng tuân thủ."
+ },
+ {
+   "question": "Hiện nay, các chủ xe máy tham gia bảo hiểm bắt buộc TNDS với mức trách nhiệm theo quy định là bao nhiêu?",
+   "answer": "Theo Thông tư 04/2021/TT-BTC:\n\n1. Mức trách nhiệm bảo hiểm đối với thiệt hại về sức khỏe, tính mạng là một trăm năm mươi (150) triệu đồng cho một người trong một vụ tai nạn.\n\n2. Mức trách nhiệm bảo hiểm đối với thiệt hại về tài sản là năm mươi (50) triệu đồng trong một vụ tai nạn.\n"
+ },
+ {
+   "question": "Thời hạn yêu cầu bồi thường của Chủ xe cơ giới là bao lâu?",
+   "answer": "01 năm kể từ ngày xảy ra tai nạn, trừ trường hợp chậm trễ do nguyên nhân khách quan và bất khả kháng theo quy định của pháp luật."
+ },
+ {
+   "question": "Chủ xe cơ giới phải thông báo về tai nạn trong vòng bao lâu?",
+   "answer": "Trong thời hạn 05 ngày làm việc kể từ ngày xảy ra tai nạn (trừ trường hợp bất khả kháng), chủ xe cơ giới cần gửi thông báo tai nạn cho OPES (bằng văn bản hoặc qua trang khai báo bồi thường điện tử)."
+ },
+ {
+   "question": "OPES sẽ thanh toán bồi thường cho Chủ xe cơ giới trong vòng bao nhiêu lâu?",
+   "answer": "Trong vòng 15 ngày kể từ khi nhận được đầy đủ hồ sơ yêu cầu bồi thường bảo hiểm hợp lệ, OPES sẽ có thông báo chi trả bồi thường gửi tới chủ xe cơ giới qua email hoặc thông báo bản cứng (gửi qua bưu điện)."
+ },
+ {
+   "question": "Trách nhiệm của chủ xe, lái xe là Người được bảo hiểm với Bảo hiểm bắt buộc TNDS của chủ xe cơ giới khi xảy ra tai nạn là gì?",
+   "answer": "Thông báo ngay cho OPES để phối hợp giải quyết, tích cực cứu chữa, hạn chế thiệt hại về sức khỏe, tính mạng và tài sản, bảo vệ hiện trường tai nạn; thông báo ngay cho cơ quan Công an hoặc chính quyền địa phương nơi gần nhất để phối hợp giải quyết vụ tai nạn giao thông theo quy định và phối hợp với cơ quan chức năng trong việc điều tra, xác minh nguyên nhân vụ tai nạn giao thông.\n\nKhông được di chuyển, tháo gỡ hoặc sửa chữa tài sản khi chưa có ý kiến chấp thuận của OPES; trừ trường hợp cần thiết để đảm bảo an toàn, đề phòng hạn chế thiệt hại về sức khỏe, tính mạng và tài sản hoặc phải thi hành theo yêu cầu của cơ quan có thẩm quyền.\n\nChủ động thu thập và cung cấp các tài liệu quy định trong hồ sơ yêu cầu bồi thường bảo hiểm thuộc trách nhiệm của Bên mua bảo hiểm, Người được bảo hiểm cho OPES."
+ },
+ {
+   "question": "Tôi sẽ tra cứu Chứng nhận bảo hiểm bắt buộc TNDS chủ xe cơ giới ở đâu?",
+   "answer": "Bạn vui lòng tra cứu chứng nhận bảo hiểm trên ứng dụng OPES tại mục Tiện ích/Hợp đồng bảo hiểm"
+ },
+ {
+   "question": "Tôi có thể không nhớ thời hạn bảo hiểm bắt buộc TNDS còn đến bao giờ, vậy công ty có thông báo gì khi bảo hiểm của tôi sắp hết hạn không?",
+   "answer": "Trong vòng 15 ngày trước khi hết thời hạn bảo hiểm, OPES sẽ thông báo cho bạn về việc hết thời hạn của Hợp đồng bảo hiểm."
+ },
+ {
+   "question": "Trong trường hợp tôi cần hỗ trợ hoặc có những thắc mắc về dịch vụ, tôi có thể liên hệ với OPES qua các kênh nào?",
+   "answer": "OPES sẵn sàng hỗ trợ bạn trong thời gian 8h-12h & 13h30 - 17h30 các ngày làm việc từ Thứ Hai tới Thứ Sáu:\n\nHotline: 1800 55 88 55 (miễn phí)\n\nCửa sổ chat hỗ trợ:\n\nTrên website www.opes.com.vn\n\nTrên Facebook Messenger: Page OPES\n\nEmail: dichvukhachhang@opes.com.vn\n\nCác vấn đề liên quan tới bồi thường được hỗ trợ 24/7 qua nhánh 1 của số Hotline 1800 55 88 55."
+ },
+ {
+   "question": "Bảo hiểm bắt buộc trách nhiệm dân sự (TNDS) của chủ xe cơ giới là gì?",
+   "answer": "Là loại hình bảo hiểm mà các cá nhân hoặc doanh nghiệp phải mua theo luật định nhằm bảo vệ quyền lợi cho nạn nhân khi gặp tai nạn giao thông do xe cơ giới gây ra, mặt khác giúp bảo vệ tài chính cho chủ xe cơ giới trước những rủi ro bất ngờ."
+ },
+ {
+   "question": "Chương trình Bảo hiểm bắt buộc trách nhiệm dân sự kết hợp bảo hiểm cứu hộ xe máy của OPES là gì?",
+   "answer": "Là chương trình bảo hiểm kết hợp tham gia Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới và các quyền lợi cứu hộ dành cho xe mô tô.\n\nCụ thể, chương trình bảo hiểm này còn cung cấp dịch vụ cứu hộ cho bạn khi gặp phải các sự cố cần vận chuyển xe trong khoảng cách 50 km, giao xăng khi xe hết xăng, khắc phục việc mất chìa khóa hoặc xe chết máy, khắc phục nổ lốp, xịt lốp."
+ },
+ {
+   "question": "Đối tượng áp dụng các quy định của pháp luật về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới là ai?",
+   "answer": "Là các đối tượng theo quy định của Nghị định 03/2021/NĐ-CP, bao gồm:\n\nChủ xe cơ giới tham gia giao thông trên lãnh thổ nước Việt Nam.\n\nDoanh nghiệp bảo hiểm được phép triển khai bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới theo quy định của pháp luật.\n\nCơ quan, tổ chức, cá nhân khác có liên quan đến bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới."
+ },
+ {
+   "question": "Xe máy tham gia chương trình bảo hiểm bắt buộc trách nhiệm dân sự kết hợp bảo hiểm cứu hộ xe mô tô của OPES gồm những loại nào?",
+   "answer": "Chương trình Bảo hiểm cứu hộ xe máy toàn diện chỉ áp dụng cho Xe Mô tô hai bánh có dung tích xi lanh trên 50cc đến dưới 175cc."
+ },
+ {
+   "question": "Khái niệm Bên thứ ba trong bảo hiểm bắt buộc TNDS của chủ xe cơ giới đối với Bên thứ ba có bao gồm tất cả các nạn nhân bị thiệt hại về người và/hoặc tài sản trong các vụ tai nạn do xe cơ giới gây ra hay không?",
+   "answer": "Theo Nghị định 03/2021/NĐ-CP, “Bên thứ ba” là người bị thiệt hại về thân thể, tính mạng, tài sản do xe cơ giới gây ra, trừ những người sau:\n\nNgười lái xe, người trên chính chiếc xe đó;\n\nChủ sở hữu xe trừ trường hợp chủ sở hữu đã giao cho tổ chức, cá nhân khác chiếm hữu, sử dụng chiếc xe đó."
+ },
+ {
+   "question": "Chủ xe cơ giới có thể tham gia 02 bảo hiểm trách nhiệm bắt buộc của chủ xe cơ giới cho cùng một xe cơ giới được không?",
+   "answer": "Không, theo Nghị định 03/2021/NĐ-CP quy định, chủ xe cơ giới không được đồng thời tham gia hai hợp đồng bảo hiểm bắt buộc trách nhiệm dân sự trở lên cho cùng một xe cơ giới."
+ },
+ {
+   "question": "Chương trình bảo hiểm cứu hộ xe máy toàn diện có thời hạn như thế nào?",
+   "answer": "Bạn có thể lựa chọn tham gia với các thời hạn:\n\n12 tháng, 24 tháng hoặc 36 tháng."
+ },
+ {
+   "question": "Chứng nhận bảo hiểm điện tử thay cho tờ giấy chứng nhận viết tay thường gặp trước đây có khó khăn trong việc sử dụng không?",
+   "answer": "Phù hợp với quy định của Nghị định 03/2021/NĐ-CP, chính thức có hiệu lực từ 01/03/2021, việc cấp và sử dụng chứng nhận bảo hiểm điện tử đối với Bảo hiểm bắt buộc TNDS của chủ xe cơ giới đã trở nên phổ biến.\n\nCác khách hàng tham gia Bảo hiểm bắt buộc TNDS của chủ xe cơ giới tại OPES đều đang nhận chứng nhận bảo hiểm điện tử với chữ ký số của công ty và mã kiểm tra được đăng ký với Bộ Khoa học và Công nghệ.\n\nBạn sẽ tránh được việc thất lạc hay để quên giấy tờ này khi chỉ cần có bản lưu trên thiết bị di động hoặc mạng internet là có thể tiếp cận được."
+ },
+ {
+   "question": "Chủ xe cơ giới muốn hủy bỏ hợp đồng bảo hiểm bắt buộc TNDS của chủ xe cơ giới có được không?",
+   "answer": "Chủ xe cơ giới được yêu cầu hủy hợp đồng bảo hiểm trong các trường hợp phải thu hồi Giấy chứng nhận đăng ký xe, biển số xe theo quy định của Bộ Công an."
+ },
+ {
+   "question": "Thủ tục hủy bỏ hợp đồng bảo hiểm bắt buộc TNDS của chủ xe cơ giới bao gồm những gì?",
+   "answer": "Nếu muốn hủy bỏ hợp đồng bảo hiểm, chủ xe cơ giới cần thông báo bằng văn bản cho OPES kèm theo quyết định, thông báo của cơ quan có thẩm quyền về việc thu hồi Giấy chứng nhận đăng ký xe, biển số xe."
+ },
+ {
+   "question": "Chủ xe cơ giới đủ điều kiện hủy bỏ hợp đồng bảo hiểm bắt buộc TNDS của chủ xe cơ giới có được hoàn phí không?",
+   "answer": "Có, OPES phải hoàn lại cho chủ xe cơ giới phí bảo hiểm đã đóng tương ứng với thời gian còn lại của hợp đồng bảo hiểm, sau khi đã trừ đi các chi phí hợp lý có liên quan đến hợp đồng bảo hiểm. OPES không phải hoàn phí bảo hiểm trong trường hợp đã xảy ra sự kiện bảo hiểm và phát sinh trách nhiệm bồi thường bảo hiểm trước khi Hợp đồng bảo hiểm bị chấm dứt."
+ },
+ {
+   "question": "Chủ xe cơ giới có quyền thỏa thuận hợp đồng bảo hiểm khi tham gia bảo hiểm bắt buộc TNDS không?",
+   "answer": "Không, vì Nghị Định 03/2021/NĐ-CP và Thông tư số 04/2021/TT-BTC đã quy định rõ ràng quy tắc điều khoản, biểu phí và bảng trả tiền bảo hiểm bắt buộc TNDS của chủ xe cơ giới để các doanh nghiệp và chủ xe cơ giới cùng tuân thủ."
+ },
+ {
+   "question": "Hiện nay, các chủ xe máy tham gia bảo hiểm bắt buộc TNDS với mức trách nhiệm theo quy định là bao nhiêu?",
+   "answer": "Theo Thông tư 04/2021/TT-BTC:\n\n1. Mức trách nhiệm bảo hiểm đối với thiệt hại về sức khỏe, tính mạng là một trăm năm mươi (150) triệu đồng cho một người trong một vụ tai nạn.\n\n2. Mức trách nhiệm bảo hiểm đối với thiệt hại về tài sản là năm mươi (50) triệu đồng trong một vụ tai nạn."
+ },
+ {
+   "question": "Hãy cho tôi biết về Quyền lợi vận chuyển xe?",
+   "answer": "Trong trường hợp Xe Được Bảo Hiểm bị tai nạn hoặc hỏng hóc nặng mà đơn vị cứu hộ được chỉ định không thể sửa chữa/ khắc phục tại chỗ, Đơn Vị Cứu Hộ được chỉ định sẽ vận chuyển xe đến đại lý sửa chữa hoặc về nhà của Bên mua bảo hiểm/Người Được Bảo Hiểm/Lái Xe (nếu ngoài thời gian làm việc của đại lý sửa chữa). OPES thông qua đơn vị cứu hộ được chỉ định để thực hiện cứu hộ Xe Được Bảo Hiểm trong khoảng cách vận chuyển dưới 50 km."
+ },
+ {
+   "question": "Hãy cho tôi biết về Quyền lợi cứu hộ tiếp xăng?",
+   "answer": "Trong trường hợp Xe Được Bảo Hiểm hết xăng trong quá trình lưu thông trên đường, OPES sẽ chi trả chi phí để Đơn Vị Cứu Hộ cung cấp dịch vụ giao xăng cho NĐBH trong trường hợp Xe Được Bảo Hiểm hết xăng trong quá trình tham gia giao thông trên đường. Bên mua bảo hiểm/Người Được Bảo Hiểm/Lái Xe có trách nhiệm chi trả phí cho dung tích xăng yêu cầu cung cấp theo giá trị trường cho Đơn Vị Cứu Hộ (tối đa 600ml xăng)."
+ },
+ {
+   "question": "Hãy cho tôi biết về Quyền lợi mất chìa khóa, chết máy?",
+   "answer": "Trong trường hợp Xe Được Bảo Hiểm chết máy hoặc Xe Được Bảo Hiểm không thể mở khóa khởi động do Bên mua bảo hiểm/Người Được Bảo Hiểm/Lái Xe bị mất chìa khóa, trộm bẻ khóa hoặc quên chìa khóa trong cốp xe, OPES chi trả chi phí để Đơn Vị Cứu Hộ hỗ trợ khắc phục vấn đề tạm thời (mở khóa hoặc khởi động xe) để Bên mua bảo hiểm/Người Được Bảo Hiểm/Lái Xe có thể tiếp tục sử dụng xe."
+ },
+ {
+   "question": "Hãy cho tôi biết về Quyền lợi Khắc phục nổ lốp/xịt lốp?",
+   "answer": "Trong trường hợp Xe Được Bảo Hiểm bị xịt lốp, nổ lốp, Đơn Vị Cứu Hộ sẽ sửa chữa (vá tạm thời) để Xe Được Bảo Hiểm có thể tiếp tục lưu thông trên đường.\nTrường hợp lốp của Xe Được Bảo Hiểm bị hư hỏng nặng, cần thay thế, Đơn vị Cứu Hộ sẽ vận chuyển đến đại lý sửa chữa.\n"
+ },
+ {
+   "question": "Chủ xe cơ giới tham gia bảo hiểm bắt buộc TNDS dài hạn có được giảm phí không?",
+   "answer": "Không, bạn chỉ có thể tham gia bảo hiểm bắt buộc TNDS theo thời hạn quy định và với mức phí mỗi năm là xác định theo Thông tư 04/2021/TT-BTC."
+ },
+ {
+   "question": "Những địa bàn nào Đơn vị cứu hộ không thể cung cấp dịch vụ cứu hộ?",
+   "answer": "Dịch vụ cứu hộ chưa thực hiện được tại 11 tỉnh/địa phương sau: Bắc Kạn, Cao Bằng, Điện Biên, Hà Giang, Hòa Bình, Lai Châu, Sơn La, Tuyên Quang, Phú Quốc, Côn Đảo, Lý Sơn (các huyện đảo)."
+ },
+ {
+   "question": "Thời hạn yêu cầu bồi thường của Chủ xe cơ giới là bao lâu?",
+   "answer": "01 năm kể từ ngày xảy ra tai nạn, trừ trường hợp chậm trễ do nguyên nhân khách quan và bất khả kháng theo quy định của pháp luật."
+ },
+ {
+   "question": "Chủ xe cơ giới phải thông báo về tai nạn trong vòng bao lâu?",
+   "answer": "Trong thời hạn 05 ngày làm việc kể từ ngày xảy ra tai nạn (trừ trường hợp bất khả kháng), chủ xe cơ giới cần gửi thông báo tai nạn cho OPES (bằng văn bản hoặc qua trang khai báo bồi thường điện tử)."
+ },
+ {
+   "question": "OPES sẽ thanh toán bồi thường cho Chủ xe cơ giới trong vòng bao nhiêu lâu?",
+   "answer": "Trong vòng 15 ngày kể từ khi nhận được đầy đủ hồ sơ yêu cầu bồi thường bảo hiểm hợp lệ, OPES sẽ có thông báo chi trả bồi thường gửi tới chủ xe cơ giới qua email hoặc thông báo bản cứng (gửi qua bưu điện)."
+ },
+ {
+   "question": "Trách nhiệm của chủ xe, lái xe là Người được bảo hiểm với Bảo hiểm bắt buộc TNDS của chủ xe cơ giới khi xảy ra tai nạn là gì?",
+   "answer": "Thông báo ngay cho OPES để phối hợp giải quyết, tích cực cứu chữa, hạn chế thiệt hại về sức khỏe, tính mạng và tài sản, bảo vệ hiện trường tai nạn; thông báo ngay cho cơ quan Công an hoặc chính quyền địa phương nơi gần nhất để phối hợp giải quyết vụ tai nạn giao thông theo quy định và phối hợp với cơ quan chức năng trong việc điều tra, xác minh nguyên nhân vụ tai nạn giao thông.\n\nKhông được di chuyển, tháo gỡ hoặc sửa chữa tài sản khi chưa có ý kiến chấp thuận của OPES; trừ trường hợp cần thiết để đảm bảo an toàn, đề phòng hạn chế thiệt hại về sức khỏe, tính mạng và tài sản hoặc phải thi hành theo yêu cầu của cơ quan có thẩm quyền.\n\nChủ động thu thập và cung cấp các tài liệu quy định trong hồ sơ yêu cầu bồi thường bảo hiểm thuộc trách nhiệm của Bên mua bảo hiểm, Người được bảo hiểm cho OPES."
+ },
+ {
+   "question": "Khi xảy ra tai nạn thuộc phạm vi bảo hiểm bắt buộc TNDS chủ xe cơ giới thì OPES có trách nhiệm bồi thường cho ai?",
+   "answer": "OPES có trách nhiệm bồi thường cho chủ xe cơ giới số tiền mà chủ xe cơ giới đã bồi thường hoặc sẽ bồi thường cho cho người bị thiệt hại.\n\nTrường hợp chủ xe cơ giới tử vong hoặc thương tật toàn bộ vĩnh viễn, OPES bồi thường trực tiếp cho người bị thiệt hại.\n\nTrường hợp cần thiết, OPES phải tạm ứng ngay những chi phí cần thiết và hợp lý trong phạm vi trách nhiệm bảo hiểm nhằm khắc phục hậu quả tai nạn."
+ },
+ {
+   "question": "Mức tạm ứng bồi thường đối với thiệt hại về sức khỏe, tính mạng của bảo hiểm bắt buộc TNDS chủ xe cơ giới như thế nào?",
+   "answer": "1. Trường hợp đã xác định được vụ tai nạn thuộc phạm vi bồi thường thiệt hại:\n\n70% mức bồi thường bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tử vong.\n\n50% mức bồi thường Bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tổn thương bộ phận được điều trị cấp cứu.\n\n2. Trường hợp chưa xác định được vụ tai nạn thuộc phạm vi bồi thường thiệt hại:\n\n30% mức trách nhiệm bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tử vong.\n\n10% mức trách nhiệm bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tổn thương bộ phận được điều trị cấp cứu."
+ },
+ {
+   "question": "Tôi sẽ tra cứu Chứng nhận bảo hiểm bắt buộc TNDS chủ xe cơ giới ở đâu?",
+   "answer": "Bạn vui lòng tra cứu chứng nhận bảo hiểm trên ứng dụng OPES tại mục Tiện ích/Hợp đồng bảo hiểm"
+ },
+ {
+   "question": "Trường hợp tôi sử dụng dịch vụ cứu hộ của garage sửa chữa xe máy gần nhà, sau đó OPES có chi trả chi phí này không?",
+   "answer": "Không, quyền lợi cứu hộ mô tô theo chương trình bảo hiểm này chỉ được áp dụng khi được thực hiện thông qua Zuttoride (là đơn vị cứu hộ được chỉ định)"
+ },
+ {
+   "question": "Khi xảy ra sự cố hỏng lốp xe, tôi cần dịch vụ cứu hộ theo chương trình bảo hiểm này thì sẽ phải làm thế nào?",
+   "answer": "Trong trường hợp này, bạn vui lòng liên hệ Hotline của Zuttoride hỗ trợ 24/24: 1900 969612 hoặc qua ứng dụng của đơn vị cứu hộ trên thiết bị di động."
+ },
+ {
+   "question": "Khi tham gia Bảo hiểm cứu hộ xe máy toàn diện, tôi cần lưu ý gì về những phát sinh đặc biệt liên quan tới thông tin trên hợp đồng bảo hiểm của mình?",
+   "answer": "Bạn cần kiểm tra thật kỹ thông tin của mình trên Giấy chứng nhận bảo hiểm để đảm bảo thuận tiện cho các giao dịch sau này cũng như công tác phối hợp với đơn vị cứu hộ được chỉ định.\n\nTrong thời hạn bảo hiểm, OPES chỉ chấp nhận yêu cầu thay đổi thông tin 01 lần duy nhất về Biển kiểm soát/Số khung/Số máy do Chủ xe/ Lái xe yêu cầu, với các điều kiện chưa phát sinh sự kiện bảo hiểm liên quan đến Quyền lợi bảo hiểm cứu hộ mô tô.\n\nTrong vòng 48h kể từ thời điểm Hợp đồng bảo hiểm có hiệu lực, trường hợp Chủ xe/Lái xe phát sinh sự kiện bảo hiểm thuộc phạm vi được cứu hộ nhưng sai lệch 01 ký tự về Biển kiểm soát/Số khung/Số máy so với Giấy chứng nhận bảo hiểm đã cấp, Đơn vị cứu hộ được OPES chỉ định sẽ vẫn thực hiện cứu hộ cho xe mô tô được bảo hiểm và Chủ xe/Lái xe có trách nhiệm liên hệ với OPES để yêu cầu thay đổi thông tin về Biển kiểm soát/Số khung/ Số máy theo quy định."
+ },
+ {
+   "question": "Tôi có thể không nhớ thời hạn bảo hiểm bắt buộc TNDS còn đến bao giờ, vậy công ty có thông báo gì khi bảo hiểm của tôi sắp hết hạn không?",
+   "answer": "Trong vòng 15 ngày trước khi hết thời hạn bảo hiểm, OPES sẽ thông báo cho bạn về việc hết thời hạn của Hợp đồng bảo hiểm."
+ },
+ {
+   "question": "Trong trường hợp tôi cần hỗ trợ hoặc có những thắc mắc về dịch vụ, tôi có thể liên hệ với OPES qua các kênh nào?",
+   "answer": "OPES sẵn sàng hỗ trợ bạn trong thời gian 8h-12h & 13h30 - 17h30 các ngày làm việc từ Thứ Hai tới Thứ Sáu:\n\nHotline: 1800 55 88 55 (miễn phí)\n\nCửa sổ chat hỗ trợ:\n\nTrên website www.opes.com.vn\n\nTrên Facebook Messenger: Page OPES\n\nEmail: dichvukhachhang@opes.com.vn\n\nCác vấn đề liên quan tới bồi thường được hỗ trợ 24/7 qua nhánh 1 của số Hotline 1800 55 88 55.\n"
+ },
+ {
+   "question": "Bảo hiểm Vật chất xe ô tô là gì?",
+   "answer": "Bảo hiểm Vật chất xe ô tô là loại hình Bảo hiểm tài sản tự nguyện. Chủ xe tham gia bảo hiểm Vật chất xe ô tô nhằm mục đích được bồi thường cho những thiệt hại vật chất đối với xe ô tô của mình do những rủi ro thuộc phạm vi bảo hiểm gây ra."
+ },
+ {
+   "question": "Những phương tiện nào có thể nhận bảo hiểm Vật chất xe ô tô?",
+   "answer": "Các loại phương tiện giao thông đường bộ chạy bằng động cơ có từ bốn bánh trở lên (trừ các loại xe chạy trên đường ray) và thường được dùng để chở người và/ hoặc hàng hóa, kéo các rơ moóc, sơ mi rơ moóc hoặc thực hiện chức năng, công dụng đặc biệt theo quy định của Luật Giao thông đường bộ.\n\nOPES không nhận bảo hiểm cho các Xe ô tô chuyên dùng, bao gồm nhưng không giới hạn bởi: các xe ô tô có mục đích sử dụng và chuyên hoạt động trong sân bay/khu vực hầm mỏ khai thác khoáng sản, xe chở xăng dầu/ khí gas hóa chất lỏng/ chất dễ nổ, xe phục vụ cho mục đích quân sự/ vũ trang (không bao gồm xe chở người), xe cấp cứu…\n"
+ },
+ {
+   "question": "Tôi cần chuẩn bị những gì khi tham gia bảo hiểm Vật chất xe của OPES?",
+   "answer": "Để tham gia bảo hiểm Vật chất xe ô tô, Bạn cần tải ứng dụng OPES để chụp hình ảnh xe, chuẩn bị các thông tin liên quan tới Giấy tờ tùy thân của Chủ xe và Chứng nhận đăng ký xe ô tô, hóa đơn mua bán xe (đối với xe mới mua chưa đăng ký).\n\nThông tin về số năm kinh nghiệm của Lái xe là một yếu tố quan trọng để OPES định phí cho gói bảo hiểm của bạn."
+ },
+ {
+   "question": "Tôi cần xác thực cụ thể tình trạng xe của mình như thế nào khi tham gia bảo hiểm qua ứng dụng OPES mà không có nhân viên hỗ trợ trực tiếp?",
+   "answer": "OPES có thiết kế hướng dẫn chi tiết và công cụ để Bạn có thể sử dụng ứng dụng của chúng tôi chụp 04 hình ảnh hiện trạng bao gồm biển số xe với các góc đầu xe bên lái, góc đầu xe bên phụ, góc đuôi xe bên lái và góc đuôi xe bên phụ một cách đơn giản và chính xác. Đây là một trong những cơ sở để OPES đánh giá tình trạng của xe."
+ },
+ {
+   "question": "Người lái chiếc xe được bảo hiểm có bắt buộc phải cài ứng dụng OPES không?",
+   "answer": "Chúng tôi khuyến khích người lái chiếc xe được bảo hiểm cài ứng dụng OPES để trải nghiệm công nghệ Telematics - công nghệ đo lường hành vi lái xe và giúp chiếc xe được vận hành an toàn hơn và cơ hội nhận được mức phí ưu đãi, những món quà khuyến khích hành vi lái xe tốt từ OPES.\n\nĐây cũng là điểm khác biệt của riêng OPES với các sản phẩm bảo hiểm Vật chất xe ô tô khác trên thị trường."
+ },
+ {
+   "question": "Bảo hiểm Vật chất xe ô tô của OPES bảo vệ cho những rủi ro nào?",
+   "answer": "OPES bồi thường cho Chủ xe những thiệt hại vật chất đối với Xe Được Bảo Hiểm bị tổn thất do thiên tai, tai nạn bất ngờ, không lường trước được trong những trường hợp sau:\n\nĐâm, va, lật, đổ, chìm, rơi toàn bộ xe, bị các vật thể khác rơi vào;\n\nHỏa hoạn, cháy, nổ;\n\nNhững tai họa bất khả kháng do thiên nhiên;\n\nMất toàn bộ Xe Được Bảo Hiểm do trộm, cướp;\n\nHành động ác ý, cố tình phá hoại nhưng không phải của Bên Mua Bảo Hiểm/ Người Được Bảo Hiểm/ Chủ xe/ Lái xe và những người có liên quan đến sở hữu, khai thác và sử dụng xe."
+ },
+ {
+   "question": "OPES có những lựa chọn ĐKBS nào?",
+   "answer": "OPES có 06 lựa chọn ĐKBS, bao gồm:\n\nBS01. Bảo hiểm không tính khấu hao phụ tùng, vật tư thay mới (miễn phí xe dưới 3 năm)\n\nBS02. Bảo hiểm lựa chọn cơ sở sửa chữa (miễn phí xe dưới 3 năm)\n\nBS03. Bảo hiểm xe bị ngập nước.\n\nBS04. Bảo hiểm bồi thường theo giới hạn trách nhiệm.\n\nBS05. Bảo hiểm mất bộ phận\n\nBS06. Hành trình bình an\n"
+ },
+ {
+   "question": "OPES sẽ thanh toán những loại chi phí nào khi có tổn thất thuộc phạm vi bảo hiểm xảy ra?",
+   "answer": "OPES sẽ thanh toán các chi phí cần thiết và hợp lý theo thỏa thuận tại Hợp đồng bảo hiểm để thực hiện các công việc theo yêu cầu và chỉ dẫn của OPES khi xảy ra tổn thất thuộc phạm vi bảo hiểm, bao gồm:\n\nChi phí bảo vệ hiện trường, ngăn ngừa, hạn chế tổn thất, thiệt hại phát sinh thêm;\n\nChi phí cứu hộ và vận chuyển Xe Được Bảo Hiểm bị thiệt hại đến nơi sửa chữa gần nhất."
+ },
+ {
+   "question": "OPES xác định giá trị thị trường của Xe Được Bảo Hiểm như thế nào?",
+   "answer": "OPES xác định Giá Thị Trường của xe tham gia bảo hiểm cụ thể như sau:\n\nĐối với Xe Ô Tô mới (100%), giá trị của xe là giá bán xe do các hãng sản xuất trong nước công bố tại thị trường Việt Nam, hoặc giá xe nhập khẩu đã bao gồm tất cả các loại thuế, phí, lệ phí theo quy định của Nhà Nước.\n\nĐối với Xe Ô Tô đã qua sử dụng, giá trị của xe là giá mua bán trung bình trên thị trường của xe tương tự cùng chủng loại tại thời điểm tham gia bảo hiểm.\n"
+ },
+ {
+   "question": "Tôi có thể đóng phí bảo hiểm Vật chất xe ô tô bằng những hình thức nào?",
+   "answer": "Bạn có thể lựa chọn đóng phí bảo hiểm theo một trong ba phương thức:\n\nThanh toán qua cổng nộp NAPAS;\n\nThực hiện chuyển khoản vào số tài khoản OPES thông báo với cú pháp: [Tên KH]_[Số Biển kiểm soát hoặc số khung, số máy]."
+ },
+ {
+   "question": "Tôi muốn lấy hóa đơn giá trị gia tăng, cần làm thế nào?",
+   "answer": "Trong trường hợp Bạn chưa thực hiện yêu cầu hóa đơn trên hành trình mua, để yêu cầu xuất hóa đơn, vui lòng kết nối với OPES trong vòng 48 giờ kể từ thời điểm Bạn thanh toán phí bảo hiểm thành công để được hỗ trợ.\n\nLưu ý:\n\nBạn vui lòng cung cấp chính xác các thông tin kê khai thuế Mã số Thuế/Tên doanh nghiệp/ Địa chỉ để tránh trường hợp phải điều chỉnh hóa đơn sau này. Trường hợp Bạn cung cấp thông tin mã số thuế chưa chính xác và hóa đơn GTGT đã kê khai thuế thì OPES không chịu trách nhiệm thu hồi hóa đơn đã xuất, chỉ hỗ trợ biên bản và hóa đơn điều chỉnh theo quy định hiện hành.\n\nOPES chỉ xuất hóa đơn cho những trường hợp đăng ký trong vòng 48 giờ kể từ thời điểm Bạn thanh toán phí bảo hiểm thành công. Mọi vấn đề liên quan đến việc xuất hóa đơn sau thời điểm trên, OPES sẽ không chịu trách nhiệm giải quyết."
+ },
+ {
+   "question": "Mức khấu trừ của OPES với sản phẩm Bảo hiểm Vật chất xe ô tô là bao nhiêu?",
+   "answer": "OPES quy định mức khấu trừ thấp nhất là 500.000 đồng đối với xe không kinh doanh và 1.000.000 đồng đối với xe kinh doanh cho mỗi và mọi vụ tổn thất. Tuy nhiên, Bạn có thể lựa chọn mức khấu trừ 1.000.000 đồng; 2.000.000 đồng; 5.000.000 đồng hoặc 10.000.000 đồng khi tham gia bảo hiểm."
+ },
+ {
+   "question": "Khi tham gia bảo hiểm Vật chất xe của OPES, tôi có được lựa chọn gói bảo hiểm không?",
+   "answer": "Bạn có thể lựa chọn một trong ba gói bảo hiểm Vật chất xe của OPES: Bạc, Vàng, Kim cương."
+ },
+ {
+   "question": "Khi tham gia bảo hiểm Vật chất xe của OPES, tôi có bắt buộc phải lựa chọn quyền lợi bổ sung không?",
+   "answer": "Các quyền lợi bảo hiểm bổ sung đã được thiết kế thành các gói Bạc, Vàng, Kim Cương, Bạn chỉ có thể lựa chọn theo các gói trên."
+ },
+ {
+   "question": "Khi khách hàng thay đổi mục đích sử dụng Xe ô tô, có phải thông báo tới OPES không?",
+   "answer": "Có, trong vòng 15 ngày kể từ khi có sự thay đổi về mục đích sử dụng Xe Ô Tô, Chủ xe phải thông báo cho OPES về sự thay đổi này."
+ },
+ {
+   "question": "Khách hàng yêu cầu chấm dứt hợp đồng bảo hiểm trước hạn có được hoàn phí không?",
+   "answer": "Bạn vui lòng thông báo cho OPES trước tối thiểu 05 ngày làm việc. OPES sẽ hoàn lại 70% phí bảo hiểm đã đóng cho thời gian còn lại của Hợp đồng bảo hiểm.\n\nOPES không hoàn phí trong trường hợp đã xảy ra sự kiện bảo hiểm và phát sinh trách nhiệm bồi thường bảo hiểm trước thời điểm chấm dứt hợp đồng bảo hiểm."
+ },
+ {
+   "question": "OPES có quyền đơn phương chấm dứt hợp đồng bảo hiểm trước hạn không?",
+   "answer": "Có, OPES sẽ thông báo tới Bạn trước tổi thiểu 05 ngày làm việc. OPES sẽ hoàn lại 100% phí bảo hiểm đã đóng cho thời gian còn lại của Hợp đồng bảo hiểm."
+ },
+ {
+   "question": "Khi tham gia bảo hiểm, khách hàng phải kê khai thông tin lái xe. Nhưng khi xảy ra sự kiện bảo hiểm, người đang lái xe không phải là lái xe khách hàng kê khai khi tham gia bảo hiểm thì OPES có bồi thường không?",
+   "answer": "OPES vẫn bồi thường cho những thiệt hại vật chất xảy ra với Xe Được Bảo Hiểm trong phạm vi bảo hiểm đối với trường hợp này."
+ },
+ {
+   "question": "Tôi mua Bảo hiểm Vật chất xe ô tô của OPES, tôi lái xe ô tô đi phượt sang Lào, và xảy ra tổn thất với xe ô tô tại Lào, xe của tôi có được bảo hiểm không?",
+   "answer": "OPES chỉ giải quyết bồi thường đối với tổn thất xảy ra trên lãnh thổ của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam."
+ },
+ {
+   "question": "Khi xảy ra tổn thất Lái xe cần làm gì?",
+   "answer": "Thông báo ngay cho OPES theo số điện thoại ghi trên Chứng nhận bảo hiểm 1800 55 88 55, tích cực cứu chữa, hạn chế thiệt hại về người và tài sản, bảo vệ hiện trường vụ tai nạn; đồng thời thông báo cho cơ quan công an hoặc chính quyền địa phương gần nhất;\n\nKhông được di chuyển xe làm mất hiện trường vụ án, tháo gỡ hoặc sửa chữa khi chưa có ý kiến chấp thuận của OPES trừ trường hợp cần thiết để đảm bảo an toàn, đề phòng hạn chế thiệt hại hoặc phải thi hành theo yêu cầu của cơ quan có thẩm quyền. Trong trường hợp 05 ngày làm việc kể từ ngày Chủ xe thông báo cho OPES, OPES không có ý kiến, Chủ xe được tự ý di chuyển, tháo dỡ hoặc sửa chữa tài sản.\n\nTrong thời hạn 05 ngày kể từ ngày xảy ra tổn thất (trừ trường hợp bất khả kháng), Chủ xe phải thông báo tổn thất cho OPES."
+ },
+ {
+   "question": "Trong trường hợp tôi không thông báo tổn thất trong vòng 05 ngày làm việc thì OPES có bồi thường tổn thất không?",
+   "answer": "OPES sẽ bồi thường những tổn thất trong phạm vi bảo hiểm xảy ra với Xe Được Bảo Hiểm nhưng sẽ giảm trừ từ 05% đến 10% Số tiền bồi thường trong trường hợp này. (Trừ trường hợp bất khả kháng dẫn đến Chủ xe không thể thông báo tổn thất tới OPES trong vòng 05 ngày làm việc)."
+ },
+ {
+   "question": "Tôi tham gia bảo hiểm Vật chất xe ô tô của OPES và bảo hiểm vật chất xe ô tô của một đơn vị bảo hiểm khác. Nếu có tổn thất xảy ra với Xe Ô Tô, tôi có nhận được bồi thường từ OPES và đơn vị bảo hiểm kia không?",
+   "answer": "Trong trường hợp Bạn mua bảo hiểm Vật chất xe ô tô tại OPES và bảo hiểm vật chất xe ô tô của đơn vị bảo hiểm khác để bảo hiểm cho cùng một Xe Được Bảo Hiểm, cùng điều kiện và sự kiện bảo hiểm. Việc bồi thường cho những tổn thất thuộc phạm vi bảo hiểm sẽ được giải quyết theo nguyên tắc:\n\nĐối với những phạm vi bảo hiểm được cấp trùng của các Hợp đồng bảo hiểm, OPES chỉ chịu trách nhiệm bồi thường theo tỷ lệ giữa Số Tiền Bảo Hiểm của Hợp đồng bảo hiểm được OPES cấp trên tổng Số Tiền Bảo Hiểm của tất cả các Hợp đồng bảo hiểm đang còn hiệu lực tại thời điểm xảy ra tổn thất mà Chủ xe đã tham gia.\n\nĐối với những phạm vi bảo hiểm không trùng nhau của các Hợp đồng bảo hiểm, OPES sẽ giải quyết bồi thường độc lập theo Hợp đồng bảo hiểm đã cấp."
+ },
+ {
+   "question": "Khi tái tục mà xe được ghi nhận tỉ lệ bồi thường thấp tôi có nhận được ưu đãi gì đặc biệt không?",
+   "answer": "Với sản phẩm bảo hiểm vật chất xe của OPES, khi tái tục Bạn có cơ hội được ưu đãi với các điều kiện thưởng:\n\nThưởng không có bồi thường khi tái tục\n\nThưởng trong trường hợp tỉ lệ bồi thường thấp (kết hợp điểm telematics cao)"
+ },
+ {
+   "question": "Nếu không chọn điều khoản BS02: Lựa chọn cơ sở sửa chữa, Tôi có thể sửa chữa xe tại các cơ sở không liên kết bảo lãnh với OPES không?",
+   "answer": "Có, Bạn hoàn toàn có thể đưa xe của mình tới các garage bao gồm cả garage không liên kết bảo lãnh với OPES để được sửa chữa (trường hợp này Bạn vui lòng giữ lại các chứng từ, hóa đơn sửa chữa để làm thủ tục giải quyết quyền lợi bảo hiểm với OPES), điều này không bị ràng buộc bởi việc bạn có mua điều khoản\n\nBS02: Lựa chọn cơ sở sửa chữa hay không.\n\nNếu bạn chọn tham gia thêm điều khoản BS02: Lựa chọn cơ sở sửa chữa, điều này sẽ hữu ích khi bạn muốn đưa xe của mình tới sửa chữa tại các cơ sở được ủy quyền của hãng đã sản xuất ra chiếc xe được bảo hiểm trên lãnh thổ Việt Nam, chi phí sửa chữa/thay thế sẽ được OPES xem xét trên cơ sở chi phí sửa chữa/thay thế hợp lý của các cơ sở sửa chữa có quy mô tương tự trên cùng địa bàn. Như vậy, sẽ không còn những lo lắng với sự chênh lệch giữa giá trong hãng và mức giá của các cơ sở khác cho cùng dịch vụ đó sẽ dẫn tới bảo hiểm không chi trả được những chi phí theo giá hãng."
+ },
+ {
+   "question": "Trong trường hợp tôi cần hỗ trợ hoặc có những thắc mắc về dịch vụ, tôi có thể liên hệ với OPES qua các kênh nào?",
+   "answer": "OPES sẵn sàng hỗ trợ bạn trong thời gian 8h-12h & 13h30 - 17h30 các ngày làm việc từ Thứ Hai tới Thứ Sáu:\n\nHotline: 1800 55 88 55 (miễn phí)\n\nCửa sổ chat hỗ trợ:\n\nTrên website www.opes.com.vn\n\nTrên Facebook Messenger: Page OPES\n\nEmail: dichvukhachhang@opes.com.vn\n\nCác vấn đề liên quan tới bồi thường được hỗ trợ 24/7 qua nhánh 1 của số Hotline 1800 55 88 55."
+ },
+ {
+   "question": "Khi xảy ra sự kiện bảo hiểm, khách hàng cần thông báo cho OPES trong vòng bao nhiêu ngày?",
+   "answer": "Trong trường hợp xảy ra Sự kiện Bảo hiểm, bạn hãy lưu ý tình trạng sức khỏe của bản thân là quan trọng nhất, cần ưu tiên cứu chữa đảm bảo an toàn cho sức khỏe, sau đó thông báo cho Công ty Bảo Hiểm trong vòng 30 ngày kể từ ngày sự kiện bảo hiểm, trừ trường hợp chậm trễ do nguyên nhân khách quan và bất khả kháng theo quy định của pháp luật."
+ },
+ {
+   "question": "Tôi có thể gửi yêu cầu giải quyết quyền lợi bảo hiểm tới OPES bằng cách nào?",
+   "answer": "Bạn chỉ cần đăng nhập Ứng dụng OPES và thực hiện gửi yêu cầu giải quyết quyền lợi bảo hiểm trực tuyến mà không cần gửi văn bản tới cho OPES."
+ },
+ {
+   "question": "OPES có quy định người thông báo Sự Kiện Bảo Hiểm phải là người nào không?",
+   "answer": "Người thông báo với OPES về Sự Kiện Bảo Hiểm xảy ra có thể là Bên mua bảo hiểm, Người được bảo hiểm hoặc Người thụ hưởng (hoặc người đại diện của họ)."
+ },
+ {
+   "question": "OPES quy định thời hạn yêu cầu giải quyết quyền lợi bảo hiểm như thế nào?",
+   "answer": "Bạn cần gửi yêu cầu giải quyết quyền lợi bảo hiểm cho OPES trong thời hạn 01 năm kể từ ngày xảy ra Sự Kiện Bảo Hiểm."
+ },
+ {
+   "question": " Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm cần chuẩn bị khi phát sinh sự kiện bảo hiểm gồm những gì?",
+   "answer": "Để hoàn thiện yêu cầu bồi thường bảo hiểm trên App OPES, bạn cần cung cấp cho OPES các thông tin/hình ảnh chứng từ sau:\n\n1. Thông tin cơ bản về vụ tai nạn: thời gian; địa điểm xảy ra tai nạn; nguyên nhân vụ tai nạn; hậu quả/chẩn đoán.\n\n2. Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm:\n\nQuyền lợi Trợ cấp nằm viện: Hình ảnh Giấy ra viện/Hồ sơ y tế điều trị sau Tai nạn\n\nQuyền lợi Tử vong: Trích lục khai tử\n\nQuyền lợi Thương tật toàn bộ vĩnh viễn: Chứng nhận thương tật\n\n3. Thông tin tài khoản thụ hưởng.\n\nLưu ý: Trên đây là những thông tin/chứng từ cơ bản bạn cần cung cấp bước đầu tới OPES. Sau khi tiếp nhận thông tin cụ thể về rủi ro của bạn, OPES sẽ có hướng dẫn hồ sơ chi tiết cần hoàn thiện gửi tới bạn trong vòng 01 ngày làm việc kể từ thời điểm OPES tiếp nhận thông tin."
+ },
+ {
+   "question": "Làm thế nào tôi có thể biết được mình phải thực hiện bổ sung các hồ sơ, chứng từ cho việc yêu cầu bồi thường?",
+   "answer": "Trong trường hợp bạn cần cung cấp thêm thông tin, chứng từ yêu cầu giải quyết quyền lợi bảo hiểm khác, trong vòng 01 ngày làm việc kể từ thời điểm tiếp nhận yêu cầu bồi thường của bạn, OPES sẽ có hướng dẫn cụ thể gửi tới bạn qua email và trên ứng dụng OPES"
+ },
+ {
+   "question": "Khi tôi đã nộp đủ hồ sơ giải quyết quyền lợi bảo hiểm cho OPES thì việc thực hiện giải quyết quyền lợi bảo hiểm sẽ được công ty triển khai lúc nào?",
+   "answer": "OPES sẽ có thông báo về phương án giải quyết quyền lợi bảo hiểm chính thức trong vòng 02 ngày làm việc kể từ ngày nhận được hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm đầy đủ và hợp lệ."
+ },
+ {
+   "question": "Sau khi nhận được thông báo chi trả của Công ty, sau bao lâu tôi sẽ nhận được tiền giải quyết quyền lợi bảo hiểm?",
+   "answer": "Bạn cần thực hiện việc xác nhận đồng ý với phương án bồi thường. Trong vòng tối đa 12 giờ làm việc sau khi có xác nhận này, OPES sẽ chuyển tiền tới tài khoản của bạn."
+ },
+ {
+   "question": "Tôi không thực hiện việc xác nhận nhận tiền chi trả bảo hiểm. Trường hợp này tôi có bị ảnh hưởng quyền lợi của mình không?",
+   "answer": "Trong vòng 02 ngày làm việc kể từ ngày OPES gửi thông báo phương án chi trả, nếu bạn không có phản hồi về phương án này, OPES sẽ thực hiện việc chuyển tiền tới bạn theo quy định."
+ },
+ {
+   "question": "Trong trường hợp tôi cần hỗ trợ hoặc có những thắc mắc về dịch vụ, tôi có thể liên hệ với OPES qua các kênh nào?",
+   "answer": "OPES sẵn sàng hỗ trợ bạn trong thời gian 8h-12h & 13h30 - 17h30 các ngày làm việc từ Thứ Hai tới Thứ Sáu:\n\nHotline: 1800 55 88 55 (miễn phí)\n\nCửa sổ chat hỗ trợ:\n\nTrên website www.opes.com.vn\n\nTrên Facebook Messenger: Page OPES\n\nEmail: dichvukhachhang@opes.com.vn\n\nCác vấn đề liên quan tới bồi thường được hỗ trợ 24/7 qua nhánh 1 của số Hotline 1800 55 88 55."
+ },
+ {
+   "question": " Khi chuyến bay bị trễ, tôi sẽ khai báo tới OPES qua đâu?",
+   "answer": "Trong vòng 24 giờ kể từ thời điểm Chuyến Bay Được Bảo Hiểm khởi hành, OPES sẽ tự động gửi Thông báo bồi thường bảo hiểm cho bạn.\n\n(Nếu sau 24 giờ Bạn chưa nhận được thông báo, vui lòng tham khảo nội dung câu số 3 bên dưới)"
+ },
+ {
+   "question": "Tôi cần làm gì để hoàn thiện thủ tục giải quyết quyền lợi bảo hiểm?",
+   "answer": "Bạn vui lòng đăng nhập ứng dụng OPES, tại mục Bồi thường, cung cấp các hình ảnh và thông tin bao gồm:\n\n1. Ảnh chụp Boarding pass/ Thẻ lên máy bay điện tử.\n\n2. Thông tin tài khoản thụ hưởng\n\nLưu ý: Bạn chỉ cần thực hiện cung cấp tài liệu liên quan tới bồi thường qua ứng dụng mà không cần gửi bản cứng Boarding pass/ Thẻ lên máy bay tới OPES."
+ },
+ {
+   "question": "Tôi phải làm thế nào khi chuyến bay của tôi bị trễ nhưng tôi không nhận được Thông báo bồi thường tự động của OPES sau 24 giờ?",
+   "answer": "Trong trường hợp sau 24 giờ kể từ thời điểm kết thúc chuyến bay mà bạn chưa nhận được Thông báo bồi thường bảo hiểm tự động của OPES liên quan tới chuyến bay bị trễ, bạn vui lòng đăng nhập ứng dụng OPES tại Mục Bồi thường để chủ động thực hiện yêu cầu bồi thường bảo hiểm."
+ },
+ {
+   "question": "Trường hợp không nhận được Thông báo bồi thường bảo hiểm của OPES, để thực hiện yêu cầu bồi thường bảo hiểm trên ứng dụng OPES, tôi cần cung cấp những chứng từ gì?",
+   "answer": "Để thực hiện yêu cầu bồi thường, bạn cần cung cấp cho OPES các hình ảnh và thông tin bao gồm:\n\nThông tin thời gian bay thực tế;\n\nẢnh chụp Boarding pass/ Thẻ lên máy bay điện tử;\n\nẢnh chụp tin nhắn/ email của Hãng bay về việc thay đổi giờ bay (nếu có);\n\nThông tin tài khoản thụ hưởng.\n\nLưu ý: Bạn chỉ cần thực hiện cung cấp tài liệu liên quan tới bồi thường qua ứng dụng OPES mà không cần gửi bản cứng chứng từ đến OPES."
+ },
+ {
+   "question": "Trường hợp khách hàng không nhận được Thông báo bồi thường bảo hiểm của OPES, sau khi cung cấp cho OPES các hình ảnh và thông tin mà OPES yêu cầu thì khách hàng có nhận được thông báo bồi thường bảo hiểm từ OPES không?",
+   "answer": "Có, trong vòng 01 ngày làm việc kể từ thời điểm OPES nhận đẩy đủ thông tin, OPES sẽ gửi Thông báo bồi thường bảo hiểm tới email mà bạn đã đăng ký khi mua bảo hiểm."
+ },
+ {
+   "question": "Tôi đã từng bị trễ chuyến bay 2 tháng trước và có tham gia bảo hiểm, nay tôi mới nhớ ra và muốn yêu cầu bồi thường có được không?",
+   "answer": "Theo quy định của sản phẩm, thời hạn tối đa để hoàn thành việc thực hiện yêu cầu trả tiền bồi thường bảo hiểm là trong vòng 30 ngày kể từ thời điểm kết thúc chuyến bay được bảo hiểm.\n\nQuá thời hạn nêu trên, OPES rất tiếc không thể hỗ trợ bồi thường với các rủi ro liên quan đến chuyến bay của bạn."
+ },
+ {
+   "question": "Trong trường hợp tôi được OPES chấp nhận chi trả, trong bao lâu tôi sẽ nhận được tiền bảo hiểm?",
+   "answer": "Trường hợp bạn đã nhận được Thông báo bồi thường bảo hiểm tự động: kể từ thời điểm OPES nhận đầy đủ các thông tin bạn cung cấp, OPES sẽ hoàn thành thủ tục thanh toán tới tài khoản thụ hưởng của bạn trong vòng tối đa 12 giờ làm việc.\n\nTrường hợp bạn không nhận được Thông báo bồi thường bảo hiểm tự động: kể từ thời điểm OPES gửi thông báo bồi thường bảo hiểm tới bạn, OPES sẽ hoàn thành thủ tục thanh toán tới tài khoản thụ hưởng của bạn trong vòng tối đa 12 giờ làm việc."
+ },
+ {
+   "question": "Tôi không có tài khoản ngân hàng, tôi có thể sử dụng số tài khoản của người thân để nhận tiền bảo hiểm không?",
+   "answer": "Trong quá trình yêu cầu bồi thường, bạn chỉ có thể lựa chọn người thụ hưởng là một trong những người cùng tham gia bảo hiểm trên cùng một chuyến bay. Trong trường hợp bạn muốn chuyển tiền tới tài khoản của 01 người khác không cùng tham gia bảo hiểm trên cùng một chuyến bay, vui lòng liên hệ đường dây nóng 1800 55 88 55 của OPES để được hỗ trợ."
+ },
+ {
+   "question": " Trong trường hợp xảy ra việc giải quyết quyền lợi bảo hiểm quá đặc biệt và phải cung cấp thêm thông tin, tài liệu chứng minh, sau bao lâu tôi mới có thể nhận được tiền bảo hiểm?",
+   "answer": "Trong thời hạn 15 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ bạn cung cấp, OPES sẽ trả tiền bảo hiểm cho bạn theo phương thức mà bạn đã lựa chọn."
+ },
+ {
+   "question": "Trong trường hợp tôi cần hỗ trợ hoặc có những thắc mắc về dịch vụ, tôi có thể liên hệ với OPES qua các kênh nào?",
+   "answer": "OPES sẵn sàng hỗ trợ bạn trong thời gian 8h-12h & 13h30 - 17h30 các ngày làm việc từ Thứ Hai tới Thứ Sáu:\n\nHotline: 1800 55 88 55 (miễn phí)\n\nCửa sổ chat hỗ trợ:\n\nTrên website www.opes.com.vn\n\nTrên Facebook Messenger: Page OPES\n\nEmail: dichvukhachhang@opes.com.vn\n\nCác vấn đề liên quan tới bồi thường được hỗ trợ 24/7 qua nhánh 1 của số Hotline 1800 55 88 55."
+ },
+ {
+   "question": " Chủ xe cơ giới phải thông báo tới OPES trong vòng bao lâu kể từ thời điểm xảy ra tai nạn?",
+   "answer": "Trong thời hạn 05 ngày làm việc kể từ ngày xảy ra tai nạn (trừ trường hợp bất khả kháng), chủ xe cơ giới cần gửi thông báo tai nạn cho OPES (bằng văn bản hoặc qua trang khai báo bồi thường điện tử)."
+ },
+ {
+   "question": "Tôi có thể gửi thông báo tổn thất thông qua hình thức điện tử như thế nào?",
+   "answer": "Bạn có thể khai báo tổn thất bằng 2 cách:\n\nCách 1: Thông báo Trung tâm Dịch vụ khách hàng OPES về sự cố/tai nạn ngay lập tức bằng cách gọi điện đến đường dây nóng của OPES. Cung cấp thông tin về sự cố/tai nạn và làm theo hướng dẫn của Trung tâm dịch vụ khách hàng OPES đồng thời thông báo cơ quan công an có thẩm quyền nơi gần nhất để giải quyết, phân lỗi tai nạn.\n\nCách 2: Sử dụng ứng dụng OPES để thực hiện các bước khai bồi thường; cung cấp thông tin về vụ tai nạn; thông tin bên thứ 3; chụp và tải ảnh hiện trường/tổn thất/hồ sơ giấy tờ."
+ },
+ {
+   "question": "OPES có yêu cầu nào với chất lượng hình ảnh chụp hiện trường/tổn thất/hồ sơ giấy tờ cho hành trình khai báo trực tuyến không?",
+   "answer": "Bạn cần lưu ý chất lượng chụp ảnh rõ nét, từ các góc độ và thể hiện được chi tiết thiệt hại có thể nhận biết bằng mắt thường.\n\nẢnh chụp giấy tờ cần thể hiện rõ nét các thông tin trong văn bản. Những thao tác này sẽ giúp hồ sơ bồi thường của bạn được xử lý nhanh chóng hơn."
+ },
+ {
+   "question": "Tôi đã lớn tuổi và không biết sử dụng các thiết bị thông minh thì có thể gửi thông báo tổn thất tới OPES như thế nào?",
+   "answer": "\nTrong trường hợp bạn gặp khó khăn trong việc Tải hoặc sử dụng ứng dụng OPES, vui lòng tải mẫu Thông báo tổn thất tại đây, điền đầy đủ và gửi về cho OPES theo địa chỉ:\n\nCông ty Cổ phần bảo hiểm OPES\n\nTầng 6, Tòa nhà số 5 Điện Biên Phủ, phường Điện Biên, quận Ba Đình, Hà Nội\n\n\nHotline: 1800 55 88 55\n"
+ },
+ {
+   "question": "OPES sẽ thanh toán bồi thường cho Chủ xe cơ giới trong vòng bao nhiêu ngày?",
+   "answer": "Trong vòng 15 ngày làm việc kể từ khi nhận được đầy đủ hồ sơ yêu cầu bồi thường bảo hiểm hợp lệ, OPES sẽ có thông báo chi trả bồi thường gửi tới Chủ xe cơ giới qua email hoặc thông báo bản cứng (gửi qua bưu điện)."
+ },
+ {
+   "question": "Trách nhiệm của chủ xe, lái xe là Người được bảo hiểm với Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới khi xảy ra tai nạn là gì?",
+   "answer": "Thông báo ngay cho OPES để phối hợp giải quyết, tích cực cứu chữa, hạn chế thiệt hại về sức khỏe, tính mạng và tài sản, bảo vệ hiện trường tai nạn; thông báo ngay cho cơ quan Công an hoặc chính quyền địa phương nơi gần nhất để phối hợp giải quyết vụ tai nạn giao thông theo quy định và phối hợp với cơ quan chức năng trong việc điều tra, xác minh nguyên nhân vụ tai nạn giao thông.\n\nKhông di chuyển, tháo gỡ hoặc sửa chữa tài sản khi chưa có ý kiến chấp thuận của OPES; trừ trường hợp cần thiết để đảm bảo an toàn, đề phòng hạn chế thiệt hại về sức khỏe, tính mạng và tài sản hoặc phải thi hành theo yêu cầu của cơ quan có thẩm quyền.\n\nChủ động thu thập và cung cấp các tài liệu quy định trong hồ sơ yêu cầu bồi thường bảo hiểm thuộc trách nhiệm của Bên mua bảo hiểm, Người được bảo hiểm cho OPES.\n\n"
+ },
+ {
+   "question": "Khi xảy ra tai nạn thuộc phạm vi bảo hiểm bắt buộc trách nhiệm dân sự chủ xe cơ giới thì OPES có trách nhiệm bồi thường cho ai?",
+   "answer": "OPES có trách nhiệm bồi thường cho chủ xe cơ giới số tiền mà chủ xe cơ giới đã bồi thường hoặc sẽ bồi thường cho người bị thiệt hại.\n\nTrường hợp chủ xe cơ giới tử vong hoặc thương tật toàn bộ vĩnh viễn, OPES bồi thường trực tiếp cho người bị thiệt hại.\n\nTrong những trường hợp cần thiết, OPES sẽ tạm ứng ngay những chi phí cần thiết và hợp lý trong phạm vi trách nhiệm bảo hiểm nhằm khắc phục hậu quả tai nạn."
+ },
+ {
+   "question": "Mức tạm ứng bồi thường đối với thiệt hại về sức khỏe, tính mạng của bảo hiểm bắt buộc TNDS chủ xe cơ giới là bao nhiêu?",
+   "answer": "\n\n\n1. Trường hợp đã xác định được vụ tai nạn thuộc phạm vi bồi thường thiệt hại:\n\n70% mức bồi thường bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tử vong.\n\n50% mức bồi thường Bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tổn thương bộ phận được điều trị cấp cứu.\n\n2. Trường hợp chưa xác định được vụ tai nạn thuộc phạm vi bồi thường thiệt hại:\n\n30% mức trách nhiệm bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tử vong.\n\n10% mức trách nhiệm bảo hiểm theo quy định/1 người/1 vụ đối với trường hợp tổn thương bộ phận được điều trị cấp cứu."
+ },
+ {
+   "question": "Thời hạn yêu cầu bồi thường của Chủ xe cơ giới là bao lâu?",
+   "answer": "Là 01 năm kể từ ngày xảy ra tai nạn, trừ trường hợp chậm trễ do nguyên nhân khách quan và bất khả kháng theo quy định của pháp luật."
+ },
+ {
+   "question": "Trong trường hợp tôi cần hỗ trợ hoặc có những thắc mắc về dịch vụ, tôi có thể liên hệ với OPES qua các kênh nào?",
+   "answer": "OPES sẵn sàng hỗ trợ bạn trong thời gian 8h-12h & 13h30 - 17h30 các ngày làm việc từ Thứ Hai tới Thứ Sáu:\n\nHotline: 1800 55 88 55 (miễn phí)\n\nCửa sổ chat hỗ trợ:\n\nTrên website www.opes.com.vn\n\nTrên Facebook Messenger: Page OPES\n\nEmail: dichvukhachhang@opes.com.vn\n\nCác vấn đề liên quan tới bồi thường được hỗ trợ 24/7 qua nhánh 1 của số Hotline 1800 55 88 55."
+ },
+ {
+   "question": "Thời hạn yêu cầu bồi thường của Chủ xe máy là bao lâu?",
+   "answer": "Là 01 năm kể từ ngày xảy ra tai nạn, trừ trường hợp chậm trễ do nguyên nhân khách quan và bất khả kháng theo quy định của pháp luật."
+ },
+ {
+   "question": "Chủ xe máy phải thông báo bằng văn bản về tai nạn liên quan tới bảo hiểm bắt buộc trách nhiệm dân sự trong vòng bao lâu?",
+   "answer": "Trong thời hạn 05 ngày làm việc kể từ ngày xảy ra tai nạn (trừ trường hợp bất khả kháng), bạn cần gửi thông báo cho OPES (bằng văn bản hoặc qua trang khai báo bồi thường điện tử)"
+ },
+ {
+   "question": " OPES sẽ thanh toán bồi thường cho Chủ xe máy trong vòng bao nhiêu lâu?",
+   "answer": "Trong vòng 15 ngày kể từ khi nhận được đầy đủ hồ sơ yêu cầu bồi thường bảo hiểm hợp lệ, OPES sẽ có thông báo chi trả bồi thường gửi tới bạn qua email hoặc thông báo bản cứng (gửi qua bưu điện)."
+ },
+ {
+   "question": "Trường hợp tôi sử dụng dịch vụ cứu hộ của cơ sở sửa chữa xe máy gần nhà, sau đó OPES có chi trả chi phí này không?",
+   "answer": "Không, quyền lợi cứu hộ mô tô theo chương trình bảo hiểm này chỉ được áp dụng khi được thực hiện thông qua Zuttoride - đơn vị cứu hộ được chỉ định từ OPES."
+ },
+ {
+   "question": "Khi xảy ra sự cố hỏng lốp xe, tôi cần dịch vụ cứu hộ theo chương trình bảo hiểm này thì sẽ phải làm thế nào?",
+   "answer": "Trong trường hợp này, bạn vui lòng liên hệ đường dây nóng 1900 969612 của Zuttoride, hỗ trợ 24/24 hoặc qua ứng dụng của đơn vị cứu hộ trên thiết bị di động."
+ },
+ {
+   "question": "Khi gặp sự cố tôi có thể gọi cho OPES để yêu cầu cứu hộ được không?",
+   "answer": "OPES luôn sẵn sàng phục vụ mọi yêu cầu của bạn, tuy nhiên với dịch vụ cứu hộ chuyên nghiệp của Zuttoride, bạn nên gọi trực tiếp 1900 969612 để được hỗ trợ kịp thời 24/24 (trường hợp OPES tiếp nhận sẽ mất thêm một khoảng thời gian để OPES chuyển tiếp yêu cầu của bạn sang Zuttoride).\n\nTrong trường hợp sự cố liên quan tới việc phát sinh trách nhiệm dân sự của bạn với bên thứ ba, bạn vui lòng kết nối trực tiếp với OPES 1800 55 88 55 (nhánh 1)\n"
+ },
+ {
+   "question": "Tôi cần khai báo tối thiểu những thông tin gì để đơn vị cứu hộ được chỉ định biết được xe của tôi tham gia chương trình bảo hiểm cứu hộ xe máy toàn diện này?",
+   "answer": "Bạn cần cung cấp thông tin biển số xe để Zuttoride xác định được xe của bạn thuộc chương trình bảo hiểm cứu hộ xe máy của OPES."
+ },
+ {
+   "question": "Thông thường từ lúc gọi cho Zuttoride, xe của tôi sẽ được đơn vị cứu hộ tiếp cận trong khoảng thời gian bao lâu?",
+   "answer": "Tùy vào vị trí bạn gặp sự cố, xe của bạn sẽ được đơn vị cứu hộ tiếp cận trong khoảng thời gian trung bình từ 30 đến 40 phút."
+ },
+ {
+   "question": "Trách nhiệm của chủ xe, lái xe là Người được bảo hiểm với Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới khi xảy ra tai nạn là gì?",
+   "answer": "Thông báo ngay cho OPES để phối hợp giải quyết, tích cực cứu chữa, hạn chế thiệt hại về sức khỏe, tính mạng và tài sản, bảo vệ hiện trường tai nạn; thông báo ngay cho cơ quan Công an hoặc chính quyền địa phương nơi gần nhất để phối hợp giải quyết vụ tai nạn giao thông theo quy định và phối hợp với cơ quan chức năng trong việc điều tra, xác minh nguyên nhân vụ tai nạn giao thông.\n\nKhông di chuyển, tháo gỡ hoặc sửa chữa tài sản khi chưa có ý kiến chấp thuận của OPES; trừ trường hợp cần thiết để đảm bảo an toàn, đề phòng hạn chế thiệt hại về sức khỏe, tính mạng và tài sản hoặc phải thi hành theo yêu cầu của cơ quan có thẩm quyền.\n\nChủ động thu thập và cung cấp các tài liệu quy định trong hồ sơ yêu cầu bồi thường bảo hiểm thuộc trách nhiệm của Bên mua bảo hiểm, Người được bảo hiểm cho OPES."
+ },
+ {
+   "question": "Khi xảy ra tai nạn thuộc phạm vi bảo hiểm bắt buộc trách nhiệm dân sự chủ xe cơ giới thì OPES có trách nhiệm bồi thường cho ai?",
+   "answer": "OPES có trách nhiệm bồi thường cho chủ xe cơ giới số tiền mà chủ xe cơ giới đã bồi thường hoặc sẽ bồi thường cho người bị thiệt hại.\n\nTrường hợp chủ xe cơ giới tử vong hoặc thương tật toàn bộ vĩnh viễn, OPES bồi thường trực tiếp cho người bị thiệt hại.\n\nTrong những trường hợp cần thiết, OPES sẽ tạm ứng ngay những chi phí cần thiết và hợp lý trong phạm vi trách nhiệm bảo hiểm nhằm khắc phục hậu quả tai nạn."
+ },
+ {
+   "question": "Khi xảy ra tổn thất Lái xe cần làm gì?",
+   "answer": "Thông báo ngay cho OPES theo số điện thoại ghi trên Chứng nhận bảo hiểm, tích cực cứu chữa, hạn chế thiệt hại về người và tài sản, bảo vệ hiện trường vụ tai nạn; đồng thời thông báo cho cơ quan công an hoặc chính quyền địa phương gần nhất;\n\nKhông được di chuyển xe làm mất hiện trường vụ tai nạn, tháo gỡ hoặc sửa chữa khi chưa có ý kiến chấp thuận của OPES trừ trường hợp cần thiết để đảm bảo an toàn, đề phòng hạn chế thiệt hại hoặc phải thi hành theo yêu cầu của cơ quan có thẩm quyền. Trong trường hợp 05 ngày làm việc kể từ ngày bạn thông báo cho OPES và OPES không có ý kiến khác, bạn được tự ý di chuyển, tháo dỡ hoặc sửa chữa tài sản.\n\nTrong thời hạn 05 ngày kể từ ngày xảy ra tổn thất (trừ trường hợp bất khả kháng), bạn cần thông báo tổn thất cho OPES."
+ },
+ {
+   "question": "Khách hàng cần khai báo sơ bộ những thông tin gì với OPES khi xảy ra tổn thất?",
+   "answer": "\n\nOPES cần tiếp nhận được một số thông tin liên quan đến vụ tai nạn để hoàn thiện thông báo ban đầu, bao gồm:\n\n1. Tên chủ xe/Biển số/ Số Chứng nhận bảo hiểm;\n\n2. Thời gian, địa điểm tai nạn;\n\n3. Đối tượng bị tổn thất, nguyên nhân tai nạn;\n\n4. Thông báo sơ bộ thiệt hại\n"
+ },
+ {
+   "question": "Khách hàng có thể khai báo bồi thường bảo hiểm xe cơ giới qua ứng dụng OPES được không?",
+   "answer": "Có, bạn có thể sử dụng ứng dụng OPES để khai báo bồi thường."
+ },
+ {
+   "question": "Trong trường hợp khách hàng gặp khó khăn với việc tải hoặc sử dụng ứng dụng OPES, muốn làm thủ tục khai báo theo truyền thống thì làm như thế nào?",
+   "answer": "Bạn có thể liên hệ với OPES theo tổng đài đa kênh, đội ngũ của chúng tôi hỗ trợ trực tiếp.\n\nHoặc bạn có thể tải mẫu Thông báo tổn thất tại đây, kê khai và gửi về OPES theo địa chỉ:\n\nCông ty Cổ phần bảo hiểm OPES\n\nTầng 6 số 5 Điện Biên Phủ, P. Điện Biên, Q. Ba Đình, TP. Hà Nội\n\nHotline: 1800 55 88 55\n\nEmail: dichvukhachhang@opes.com.vn"
+ },
+ {
+   "question": "Lợi ích của việc sử dụng ứng dụng trong bồi thường bảo hiểm xe cơ giới của OPES là gì?",
+   "answer": "Ứng dụng OPES được thiết kế đơn giản, dễ sử dụng, giúp bạn nhanh chóng xem được các hướng dẫn thủ tục bồi thường một cách dễ dàng, khai báo và gửi nội dung kèm hình ảnh theo hướng dẫn. Bên cạnh đó, việc quản lý các yêu cầu bồi thường cũng được tập trung và hiển thị chuyên sâu trên ứng dụng.\n\nỨng dụng cũng cung cấp những tiện ích rất thiết thực cho bạn khi gặp phải rủi ro với các tiện ích như Danh sách cơ sở sửa chữa, Cứu hộ, Trạm xăng, Cơ quan công an."
+ },
+ {
+   "question": "Tôi rất ngại sử dụng ứng dụng công nghệ, đặc biệt trong các vấn đề liên quan tới tài chính, giấy tờ và thủ tục bồi thường?",
+   "answer": "Ứng dụng OPES được thiết kế giúp bạn dễ dàng sử dụng và tham gia các quy trình một cách đơn giản nhất. Ngoài ra, bạn cũng sẽ luôn nhận được sự hỗ trợ của đội ngũ bồi thường qua tổng đài 1800 55 88 55."
+ },
+ {
+   "question": "Sau khi bấm nút khai báo thông tin, đã chọn khai báo thông tin và ứng dụng thông báo việc khai báo vụ tổn thất thành công. Nhưng tôi thấy còn phần Tài liệu bồi thường cung cấp các thông tin và chụp ảnh bổ sung, tôi có thể làm các thao tác này sau được không? và sau này bổ sung thêm tài liệu được không?",
+   "answer": "Bạn nên khai báo lần lượt theo hành trình trên ứng dụng để thuận tiện nhất cho quá trình giải quyết quyền lợi bảo hiểm. Thực tế, khi bạn đã được ứng dụng thông báo việc khai báo thành công là các thông tin ban đầu về tổn thất với xe của bạn đã được ghi nhận lên hệ thống của OPES. Các tài liệu khác bạn luôn có thể bổ sung tại phần Tài liệu bồi thường."
+ },
+ {
+   "question": "OPES sẽ thanh toán những loại chi phí nào khi có tổn thất thuộc phạm vi bảo hiểm xảy ra?",
+   "answer": "\nOPES sẽ thanh toán các chi phí cần thiết và hợp lý theo thỏa thuận tại Hợp đồng bảo hiểm để thực hiện các công việc theo yêu cầu và chỉ dẫn của OPES khi xảy ra tổn thất thuộc phạm vi bảo hiểm, bao gồm:\n\nChi phí bảo vệ hiện trường, ngăn ngừa, hạn chế tổn thất, thiệt hại phát sinh thêm;\n\nChi phí cứu hộ và vận chuyển Xe Được Bảo Hiểm bị thiệt hại đến nơi sửa chữa gần nhất.\n"
+ },
+ {
+   "question": "Mức khấu trừ của OPES với sản phẩm Bảo hiểm Vật chất xe ô tô là bao nhiêu?",
+   "answer": "OPES quy định mức khấu trừ thấp nhất là 500.000 đồng đối với xe không kinh doanh và 1.000.000 đồng đối với xe kinh doanh cho mỗi và mọi vụ tổn thất. Tuy nhiên, Bạn có thể lựa chọn mức khấu trừ 1.000.000 đồng; 2.000.000 đồng; 5.000.000 đồng hoặc 10.000.000 đồng khi tham gia bảo hiểm."
+ },
+ {
+   "question": "Khi tham gia bảo hiểm, khách hàng phải kê khai thông tin lái xe. Nhưng khi xảy ra sự kiện bảo hiểm, người đang lái xe không phải là lái xe khách hàng kê khai khi tham gia bảo hiểm thì OPES có bồi thường không?",
+   "answer": "OPES vẫn bồi thường cho những thiệt hại vật chất xảy ra với Xe Được Bảo Hiểm trong phạm vi bảo hiểm đối với trường hợp này."
+ },
+ {
+   "question": "Tôi là khách hàng mua Bảo hiểm Vật chất xe ô tô của OPES, tôi lái xe ô tô đi phượt sang Lào, và xảy ra tổn thất với xe ô tô tại Lào, xe của tôi có được bảo hiểm không?",
+   "answer": "OPES chỉ giải quyết bồi thường đối với tổn thất xảy ra trên lãnh thổ của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam."
+ },
+ {
+   "question": "Trong trường hợp khách hàng không thông báo tổn thất trong vòng 05 ngày làm việc thì OPES có bồi thường tổn thất không?",
+   "answer": "OPES sẽ bồi thường những tổn thất trong phạm vi bảo hiểm xảy ra với Xe Được Bảo Hiểm nhưng sẽ giảm trừ từ 05% đến 10% Số tiền bồi thường trong trường hợp này. (Trừ trường hợp bất khả kháng dẫn đến Chủ xe không thể thông báo tổn thất tới OPES trong vòng 05 ngày làm việc)."
+ },
+ {
+   "question": "Khách hàng tham gia bảo hiểm Vật chất xe ô tô của OPES và bảo hiểm vật chất xe ô tô của một đơn vị bảo hiểm khác. Nếu có tổn thất xảy ra với Xe Ô Tô, khách hàng có nhận được bồi thường từ OPES và đơn vị bảo hiểm kia không?",
+   "answer": "Trong trường hợp bạn mua bảo hiểm Vật chất xe ô tô tại OPES và bảo hiểm vật chất xe ô tô của đơn vị bảo hiểm khác để bảo hiểm cho cùng một Xe Được Bảo Hiểm, cùng điều kiện và sự kiện bảo hiểm, việc bồi thường cho những tổn thất thuộc phạm vi bảo hiểm sẽ được giải quyết theo nguyên tắc:\n\nĐối với những phạm vi bảo hiểm được cấp trùng của các Hợp đồng bảo hiểm, OPES chỉ chịu trách nhiệm bồi thường theo tỷ lệ giữa Số Tiền Bảo Hiểm của Hợp đồng bảo hiểm được OPES cấp trên tổng Số Tiền Bảo Hiểm của tất cả các Hợp đồng bảo hiểm đang còn hiệu lực tại thời điểm xảy ra tổn thất mà bạn đã tham gia.\n\nĐối với những phạm vi bảo hiểm không trùng nhau của các Hợp đồng bảo hiểm, OPES sẽ giải quyết bồi thường độc lập theo Hợp đồng bảo hiểm đã cấp."
+ },
+ {
+   "question": "Hành vi lái xe được ghi nhận bởi công nghệ Telematics của công ty có ảnh hưởng tới kết quả giải quyết bồi thường khi có sự cố bất ngờ của tôi không?",
+   "answer": "Không. Các quyết định liên quan tới giải quyết quyền lợi bảo hiểm của công ty sẽ được nhận định theo kết quả giám định và tuân thủ theo đúng Quy tắc điều khoản sản phẩm bảo hiểm."
+ },
+ {
+   "question": "Trong những trường hợp tổn thất được thông báo xác định có nguyên nhân liên quan tới 2 vụ việc trở lên, mức khấu trừ có thể bị áp dụng tách ra không?",
+   "answer": "Có. Với những trường hợp OPES xác định được các tổn thất từ các vụ việc khác nhau; hoặc trầy xước quanh xe mà nguyên nhân không xác định được thì sẽ thực hiện tách vụ và tính mức khấu trừ cho từng vụ."
+ },
+ {
+   "question": "Hồ sơ bồi thường với mức yêu cầu là bao nhiêu, khách hàng cần cung cấp hồ sơ công an?",
+   "answer": "OPES căn cứ vào nguyên nhân tổn thất để xác định tính chất phức tạp của bộ hồ sơ và có hướng dẫn khách hàng về việc có cần thiết phải cung cấp Biên bản công an hay không; OPES cần xác định việc hồ sơ pháp lý là theo tính chất vụ việc hay là theo số tiền…\n\nVD: Xe Mercedes & Kia Morning cùng va quẹt cổng nhà bể đèn pha:\n\no Xe Kia Morning thiệt hại: 5 triệu.\n\no Xe Mercedes thiệt hại 200 triệu.\n\nTrường hợp này cùng một tình huống nếu chúng ta áp dụng về số tiền sẽ không hợp lý.\n\nNhư vậy, tùy theo tình huống tính chất vụ việc như tai nạn có liên quan bên thứ 3, Tổn thất cho nhiều hạng mục phức tạp (móp dàn đầu, dàn nóng, két nước…vv…) tổn thất có thiệt hại về người…"
+ },
+ {
+   "question": " Có nhân viên hỗ trợ tại hiện trường khi xảy ra sự cố không?",
+   "answer": "OPES áp dụng công nghệ số trong việc xử lý hồ sơ bồi thường; khách hàng có thể tự chụp ảnh hiện trường qua ứng dụng và khai báo hồ sơ bồi thường mà không cần phải chờ giám định viên đến. Khách hàng thực hiện theo hướng dẫn của OPES để tiến hành sửa chữa xe trong thời gian sớm nhất.\n\nTrong một số trường hợp rất đặc biệt phụ thuộc vào tính chất của sự việc chuyên viên của chúng tôi sẽ có mặt trong thời gian sớm nhất."
+ },
+ {
+   "question": " Nếu không chọn điều khoản BS02: Lựa chọn cơ sở sửa chữa, Tôi có thể sửa chữa xe tại các cơ sở không liên kết bảo lãnh với OPES không?",
+   "answer": "Có, Bạn hoàn toàn có thể đưa xe của mình tới các garage bao gồm cả garage không liên kết bảo lãnh với OPES để được sửa chữa (trường hợp này Bạn vui lòng giữ lại các chứng từ, hóa đơn sửa chữa để làm thủ tục giải quyết quyền lợi bảo hiểm với OPES), điều này không bị ràng buộc bởi việc bạn có mua điều khoản BS02: Lựa chọn cơ sở sửa chữa hay không\nNếu bạn chọn tham gia thêm điều khoản BS02: Lựa chọn cơ sở sửa chữa, điều này sẽ hữu ích khi bạn muốn đưa xe của mình tới sửa chữa tại các cơ sở được ủy quyền của hãng đã sản xuất ra chiếc xe được bảo hiểm trên lãnh thổ Việt Nam, chi phí sửa chữa/thay thế sẽ được OPES xem xét trên cơ sở chi phí sửa chữa/thay thế hợp lý của các cơ sở sửa chữa có quy mô tương tự trên cùng địa bàn. Như vậy, sẽ không còn những lo lắng với sự chênh lệch giữa giá trong hãng và mức giá của các cơ sở khác cho cùng dịch vụ đó sẽ dẫn tới bảo hiểm không chi trả được những chi phí theo giá hãng."
+ },
+ {
+   "question": "Điểm khác biệt trong những sản phẩm dịch vụ OPES cung cấp cho khách hàng?",
+   "answer": "Hệ thống vận hành thông minh\nHệ sinh thái đa dạng\nTrải nghiệm khách hàng đa kênh\nSản phẩm dịch vụ tôi hiểu bạn"
+ },
+ {
+   "question": "OPES đang duy trì những giá trị cốt lõi nào?",
+   "answer": "OPES duy trì 4 Giá trị cốt lõi trong mọi hoạt động của chúng tôi:\n\nĐổi mới\nĐồng hành\nXuất sắc\nNhanh nhẹn."
+ },
+ {
+   "question": "Tôi muốn biết địa chỉ Trụ sở chính của Công ty cổ phần Bảo hiểm OPES?",
+   "answer": "Công ty Cổ phần Bảo hiểm OPES, tầng 6, Tòa nhà số 5 Điện Biên Phủ, Quận Ba Đình, Hà Nội."
+ },
+ {
+   "question": "Thời gian làm việc của văn phòng OPES?",
+   "answer": "Văn phòng của chúng tôi hoạt động theo thời gian:\n\nSáng 8h00 - 12h00 & Chiều 13h30 - 17h30\nTừ Thứ 2 đến Thứ 6 hàng tuần."
+ },
+ {
+   "question": " Tôi có thể liên lạc tới Trung tâm Dịch vụ khách hàng của OPES bằng cách nào?",
+   "answer": "Trung tâm dịch vụ khách hàng OPES\n\nĐường dây nóng: 1800 55 88 55 (miễn phí)\n\nEmail: dichvukhachhang@opes.com.vn\n\nLivechat: trên website www.opes.com.vn\n\nFacebook Messenger: Page OPES\n\nThời gian: 8h00 – 12h00 & 13h30 – 17h30 các ngày làm việc từ thứ Hai – thứ Sáu.\n\nDịch vụ liên quan tới bồi thường bảo hiểm hỗ trợ 24/7 qua đường dây nóng 1800 55 88 55 (nhánh 1)"
+ },
+ {
+   "question": "Tôi có thể yêu cầu hóa đơn cho giao dịch của mình như thế nào?",
+   "answer": "Quý khách hàng có thể yêu cầu xuất hóa đơn một cách thuận tiện ngay trong hành trình tham gia bảo hiểm trên App OPES.\n\nTrong trường hợp Quý khách hàng yêu cầu xuất hóa đơn sau khi đã hoàn thành mua sản phẩm bảo hiểm, vui lòng liên hệ với Trung tâm Dịch vụ khách hàng của OPES trong vòng 48h kể từ khi Hợp đồng bao hiểm được phát hành."
+ },
+ {
+   "question": "Báo cáo thường niên gần nhất của OPES có thể được tìm thấy ở đâu?",
+   "answer": "Để tiếp cận báo cáo thường niên của chúng tôi, Quý khách vui lòng truy cập: https://opes.com.vn/about-us"
+ },
+ {
+   "question": "Trong trường hợp xảy ra sự kiện bảo hiểm tôi có thể kết nối tới OPES như thế nào?",
+   "answer": "Quý khách có thể liên lạc với OPES 24/7 qua tổng đài hoàn toàn miễn phí: 1800 55 88 55 (Nhánh 1)."
+ },
+ {
+   "question": "Trong trường hợp có sự kiện bảo hiểm xảy ra, đối tượng nào có thể thông báo sự kiện này tới công ty?",
+   "answer": "Bất cứ ai biết về sự kiện bảo hiểm đều có thể thông báo cho OPES.\n\nSau đó, OPES sẽ trao đổi và hướng dẫn cụ thể với đối tượng có vai trò trong giải quyết quyền lợi bảo hiểm của hợp đồng liên quan."
+ },
+ {
+   "question": "Tôi có thể kết nối với OPES như thế nào để trao đổi các cơ hội hợp tác với Công ty?",
+   "answer": "Để kết nối với chúng tôi cho các hoạt động không liên quan tới giao dịch và nghiệp vụ bảo hiểm,\n\nQuý khách, Quý đối tác có thể kết nối với Văn phòng OPES: 0896 55 88 55 và bấm số máy lẻ của bộ phận cần gặp hoặc lễ tân của chúng tôi sẽ hỗ trợ kết nối."
+ }
+]
